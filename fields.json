@@ -1,0 +1,2608 @@
+{
+  "slug": "spoiled-rotten-az",
+  "brand": "Spoiled Rotten Photography",
+  "field_count": 237,
+  "field_breakdown": {
+    "absolute": 220,
+    "theoretical": 9,
+    "matching": 8,
+    "total": 237
+  },
+  "franchiseFee": 39000,
+  "totalInvestmentMin": 52695,
+  "totalInvestmentMax": 64350,
+  "royaltyPercent": "9%",
+  "royaltyFee": "9% of Gross Sales",
+  "totalUnits": 29,
+  "openLocations": 29,
+  "corporateCity": "Huntsville",
+  "corporateState": "AL",
+  "corporateZip": "35806",
+  "corporateAddress": "7 Ross Street, Huntsville, Alabama 35806",
+  "description": "Spoiled Rotten Photography is a boutique preschool and school photography franchise founded in Huntsville, Alabama in 2003 and franchising since 2012. Franchisees operate a protected territory of 400,000+ population, photographing school and preschool students plus families, sports teams and events, using the company's system of specialized training, unique photo sets, online ordering and customer relationship software. The 2025 FDD reports 29 open outlets (25 franchised, 4 company-owned) across 12 states, with 2024 average gross sales of $279,597 across 19 full-time locations. Initial investment ranges from $52,695 to $64,350 with a $39,000 franchise fee and 9% royalty.",
+  "category": "Photography",
+  "websiteUrl": "https://spoiledrottenphotography.com",
+  "yearFounded": 2003,
+  "yearFranchising": 2012,
+  "fddYear": 2025,
+  "territoryDescription": "Franchisee receives a Protected Territory of one or more contiguous zip codes with a population of at least 400,000 people, and may serve schools with addresses inside those zip codes (Item 12, FDD pp.24-26). The territory is not exclusive: the franchisor may face franchisees with competition from other franchisees, company-owned outlets, and alternative channels. Minimum Performance Standards require $50,000 in Year 1 gross sales, scaling to $275,000 in Year 10; failing for 2 consecutive years can trigger termination or territory reduction. Eight categories of rights are reserved to the franchisor, including operating outside the protected territory and Internet marketing.",
+  "item12": "Franchisee receives a Protected Territory of one or more contiguous zip codes with a population of at least 400,000 people, and may serve schools with addresses inside those zip codes (Item 12, FDD pp.24-26). The territory is not exclusive: the franchisor may face franchisees with competition from other franchisees, company-owned outlets, and alternative channels. Minimum Performance Standards require $50,000 in Year 1 gross sales, scaling to $275,000 in Year 10; failing for 2 consecutive years can trigger termination or territory reduction. Eight categories of rights are reserved to the franchisor, including operating outside the protected territory and Internet marketing.",
+  "item20PinCount": 29,
+  "hq_source": "FDD Item 1, page 1 (franchisor principal business address)",
+  "risk_score": 32,
+  "item19_figure": "Average gross sales $279,597 (n=19 full-time locations, 2024); median $171,605",
+  "item19_confidence": "MODERATE (unaudited, franchisee-reported, wide dispersion: bottom-third avg $99,461 vs top-third avg $558,770)",
+  "miner": "spoiled-rotten-build",
+  "pins": [
+    {
+      "city": "Birmingham, AL",
+      "state": "AL",
+      "latitude": 33.52068,
+      "longitude": -86.80243
+    },
+    {
+      "city": "Gilbert, AZ",
+      "state": "AZ",
+      "latitude": 33.35276,
+      "longitude": -111.78904
+    },
+    {
+      "city": "Scottsdale, AZ",
+      "state": "AZ",
+      "latitude": 33.49422,
+      "longitude": -111.92602
+    },
+    {
+      "city": "Littleton, CO",
+      "state": "CO",
+      "latitude": 39.61332,
+      "longitude": -105.01665
+    },
+    {
+      "city": "Fountain, CO",
+      "state": "CO",
+      "latitude": 38.68222,
+      "longitude": -104.70081
+    },
+    {
+      "city": "Tallahassee, FL",
+      "state": "FL",
+      "latitude": 30.43808,
+      "longitude": -84.28093
+    },
+    {
+      "city": "Woodstock, GA",
+      "state": "GA",
+      "latitude": 34.10141,
+      "longitude": -84.51922
+    },
+    {
+      "city": "Buckhead, GA",
+      "state": "GA",
+      "latitude": 33.83981,
+      "longitude": -84.37956
+    },
+    {
+      "city": "Duluth/Sandy Springs, GA",
+      "state": "GA",
+      "latitude": 34.00286,
+      "longitude": -84.1441
+    },
+    {
+      "city": "Kansas City, MO",
+      "state": "MO",
+      "latitude": 39.1001,
+      "longitude": -94.57814
+    },
+    {
+      "city": "St. Louis, MO",
+      "state": "MO",
+      "latitude": 38.62541,
+      "longitude": -90.19001
+    },
+    {
+      "city": "Wayne, NJ",
+      "state": "NJ",
+      "latitude": 40.94917,
+      "longitude": -74.23768
+    },
+    {
+      "city": "Mooresville, NC",
+      "state": "NC",
+      "latitude": 35.58486,
+      "longitude": -80.81007
+    },
+    {
+      "city": "Cary, NC",
+      "state": "NC",
+      "latitude": 35.78736,
+      "longitude": -78.78116
+    },
+    {
+      "city": "Warren, OH",
+      "state": "OH",
+      "latitude": 41.2367955,
+      "longitude": -80.8190423,
+      "coord_fix": "2026-09-13: pin re-verification found stored coords (39.4204,-84.1809, Cincinnati area) 349km from FDD-listed Warren, OH (FDD: Katrina Gatta, Warren OH, 216-777-0158); corrected to geocoded Warren, OH"
+    },
+    {
+      "city": "Brentwood, TN",
+      "state": "TN",
+      "latitude": 36.03257,
+      "longitude": -86.78252
+    },
+    {
+      "city": "Austin, TX",
+      "state": "TX",
+      "latitude": 30.27113,
+      "longitude": -97.7437
+    },
+    {
+      "city": "San Antonio, TX",
+      "state": "TX",
+      "latitude": 29.4246,
+      "longitude": -98.49514
+    },
+    {
+      "city": "New Braunfels, TX",
+      "state": "TX",
+      "latitude": 29.70283,
+      "longitude": -98.12573
+    },
+    {
+      "city": "Mansfield, TX",
+      "state": "TX",
+      "latitude": 32.56349,
+      "longitude": -97.14203
+    },
+    {
+      "city": "Central Houston, TX",
+      "state": "TX",
+      "latitude": 29.75894,
+      "longitude": -95.3677
+    },
+    {
+      "city": "Katy, TX",
+      "state": "TX",
+      "latitude": 29.78579,
+      "longitude": -95.8244
+    },
+    {
+      "city": "Kingwood, TX",
+      "state": "TX",
+      "latitude": 30.04971,
+      "longitude": -95.18463
+    },
+    {
+      "city": "Frisco, TX",
+      "state": "TX",
+      "latitude": 33.1506,
+      "longitude": -96.82382
+    },
+    {
+      "city": "Prosper/Lewisville, TX",
+      "state": "TX",
+      "latitude": 33.23716,
+      "longitude": -96.7977
+    },
+    {
+      "city": "Huntsville, AL",
+      "state": "AL",
+      "latitude": 34.72985,
+      "longitude": -86.5859
+    },
+    {
+      "city": "Rogers, AR",
+      "state": "AR",
+      "latitude": 36.33486,
+      "longitude": -94.11938
+    },
+    {
+      "city": "Springfield, MO",
+      "state": "MO",
+      "latitude": 37.20817,
+      "longitude": -93.29227
+    },
+    {
+      "city": "Charleston, SC",
+      "state": "SC",
+      "latitude": 32.78844,
+      "longitude": -79.93993
+    }
+  ],
+  "fields": {
+    "legal_entity_name": {
+      "field": "legal_entity_name",
+      "value": "The Purple Crown, LLC",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "1"
+    },
+    "trade_name": {
+      "field": "trade_name",
+      "value": "Spoiled Rotten Photography",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "1"
+    },
+    "trade_abbreviation": {
+      "field": "trade_abbreviation",
+      "value": "SRP",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "1"
+    },
+    "principal_business_address": {
+      "field": "principal_business_address",
+      "value": "7 Ross Street, Huntsville, Alabama 35806",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "1"
+    },
+    "state_of_organization": {
+      "field": "state_of_organization",
+      "value": "Alabama",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "1"
+    },
+    "organization_date": {
+      "field": "organization_date",
+      "value": "August 1, 2012",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "1"
+    },
+    "other_business_names": {
+      "field": "other_business_names",
+      "value": "insufficient-data: franchisor states it does not conduct business under any other name",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "1"
+    },
+    "agent_for_service_of_process": {
+      "field": "agent_for_service_of_process",
+      "value": "Melissa Tash",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "1"
+    },
+    "agent_address": {
+      "field": "agent_address",
+      "value": "7 Ross Street, Huntsville, Alabama 35806",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "1"
+    },
+    "parent_companies": {
+      "field": "parent_companies",
+      "value": "insufficient-data: no parents required to be disclosed",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "1"
+    },
+    "predecessors": {
+      "field": "predecessors",
+      "value": "insufficient-data: no predecessors required to be disclosed",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "1"
+    },
+    "affiliates_disclosed": {
+      "field": "affiliates_disclosed",
+      "value": "insufficient-data: no affiliates required to be disclosed",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "1"
+    },
+    "founders": {
+      "field": "founders",
+      "value": "Melissa Tash and Jamie Tash",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "1"
+    },
+    "concept_start_date": {
+      "field": "concept_start_date",
+      "value": "January 2003",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "1"
+    },
+    "concept_origin_city": {
+      "field": "concept_origin_city",
+      "value": "Huntsville, Alabama",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "1"
+    },
+    "concept_specialty": {
+      "field": "concept_specialty",
+      "value": "photographing pre-school aged children",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "1"
+    },
+    "first_franchise_territory": {
+      "field": "first_franchise_territory",
+      "value": "Franklin, Tennessee (added August 2012)",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "1"
+    },
+    "business_description": {
+      "field": "business_description",
+      "value": "franchise whose primary business promotes, markets and sells studio quality portraits and other specialty photographic products and services to parents, schools, pre-schools, individuals, families and other groups",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "1-2"
+    },
+    "system_components": {
+      "field": "system_components",
+      "value": [
+        "specialized training",
+        "methods of operation",
+        "uniform photographic standards",
+        "unique photograph sets",
+        "internet-based point of sale revenue collection",
+        "online order processing portal",
+        "customer relationship management software",
+        "equipment specifications and combinations",
+        "operations and training manual",
+        "advertising and promotional materials"
+      ],
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "2"
+    },
+    "target_market": {
+      "field": "target_market",
+      "value": "parents, schools, pre-schools, individuals, families and other groups, entities or organizations in the franchisee's territory",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "2"
+    },
+    "competition_note": {
+      "field": "competition_note",
+      "value": "competes with other businesses, both national and local, offering similar photography services; market may be affected by general economic conditions",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "2"
+    },
+    "regulations_note": {
+      "field": "regulations_note",
+      "value": "must adhere to federal, state and local employment, labor and occupational safety laws such as OSHA; should consult an attorney",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "2"
+    },
+    "melissa_tash_title": {
+      "field": "melissa_tash_title",
+      "value": "Founder, President, and Chief Executive Officer",
+      "type": "absolute",
+      "item": "Item 2",
+      "page": "3"
+    },
+    "melissa_tash_experience": {
+      "field": "melissa_tash_experience",
+      "value": "owner/operator in charge of operations since January 2003",
+      "type": "absolute",
+      "item": "Item 2",
+      "page": "3"
+    },
+    "jamie_tash_title": {
+      "field": "jamie_tash_title",
+      "value": "Chief Financial Officer",
+      "type": "absolute",
+      "item": "Item 2",
+      "page": "3"
+    },
+    "jamie_tash_experience": {
+      "field": "jamie_tash_experience",
+      "value": "in charge of Framing, Accounting, Packaging, and Delivery since January 2003; CFO since January 2003; owner/operator of Tash Properties, Inc. (rental real estate, Huntsville, AL) since 2002",
+      "type": "absolute",
+      "item": "Item 2",
+      "page": "3"
+    },
+    "elizabeth_bailey_title": {
+      "field": "elizabeth_bailey_title",
+      "value": "Chief Branding Officer and Director of Franchisee Success",
+      "type": "absolute",
+      "item": "Item 2",
+      "page": "3"
+    },
+    "elizabeth_bailey_experience": {
+      "field": "elizabeth_bailey_experience",
+      "value": "branding and franchisee success since January 2020; opened second franchise location (Alpharetta, GA) June 2013; owned/operated it 7 years; sold unit January 2020",
+      "type": "absolute",
+      "item": "Item 2",
+      "page": "3"
+    },
+    "scott_wehrenberg_title": {
+      "field": "scott_wehrenberg_title",
+      "value": "Director of Software Development",
+      "type": "absolute",
+      "item": "Item 2",
+      "page": "3"
+    },
+    "scott_wehrenberg_experience": {
+      "field": "scott_wehrenberg_experience",
+      "value": "Director of Software Development since August 2012",
+      "type": "absolute",
+      "item": "Item 2",
+      "page": "3"
+    },
+    "litigation_disclosure": {
+      "field": "litigation_disclosure",
+      "value": "No litigation is required to be disclosed in this Item.",
+      "type": "absolute",
+      "item": "Item 3",
+      "page": "3"
+    },
+    "bankruptcy_disclosure": {
+      "field": "bankruptcy_disclosure",
+      "value": "No bankruptcy is required to be disclosed in this Item.",
+      "type": "absolute",
+      "item": "Item 4",
+      "page": "3"
+    },
+    "initial_franchise_fee": {
+      "field": "initial_franchise_fee",
+      "value": 39000,
+      "type": "absolute",
+      "item": "Item 5",
+      "page": "3"
+    },
+    "initial_fee_payable_at": {
+      "field": "initial_fee_payable_at",
+      "value": "at the time you sign the Franchise Agreement",
+      "type": "absolute",
+      "item": "Item 5",
+      "page": "3"
+    },
+    "initial_fee_refundability": {
+      "field": "initial_fee_refundability",
+      "value": "fully earned once paid; no refunds available under any circumstances",
+      "type": "absolute",
+      "item": "Item 5",
+      "page": "3"
+    },
+    "veteran_discount": {
+      "field": "veteran_discount",
+      "value": "US Armed Forces veterans receive $5,000 off the $39,000 Initial Franchise Fee",
+      "type": "absolute",
+      "item": "Item 5",
+      "page": "3"
+    },
+    "initial_branded_inventory_cost": {
+      "field": "initial_branded_inventory_cost",
+      "value": "$350 to $600 (a year's worth of branded items)",
+      "type": "absolute",
+      "item": "Item 5",
+      "page": "3"
+    },
+    "initial_marketing_set_materials_cost": {
+      "field": "initial_marketing_set_materials_cost",
+      "value": "$1,000 to $1,800 (six months' worth of marketing and set materials)",
+      "type": "absolute",
+      "item": "Item 5",
+      "page": "3"
+    },
+    "technology_fee_monthly": {
+      "field": "technology_fee_monthly",
+      "value": "$125 per month, or 1.5% of gross sales, whichever is greater",
+      "type": "absolute",
+      "item": "Item 5",
+      "page": "3"
+    },
+    "additional_franchise_fee": {
+      "field": "additional_franchise_fee",
+      "value": "85% of the then-current Initial Franchise Fee",
+      "type": "absolute",
+      "item": "Item 5",
+      "page": "4"
+    },
+    "royalty_rate": {
+      "field": "royalty_rate",
+      "value": "9% of Gross Sales",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "4"
+    },
+    "royalty_floor": {
+      "field": "royalty_floor",
+      "value": "in no event less than the Minimum Annual Royalty Fee",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "4"
+    },
+    "royalty_due_date": {
+      "field": "royalty_due_date",
+      "value": "twice per month via ACH debit",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "4"
+    },
+    "gross_sales_definition": {
+      "field": "gross_sales_definition",
+      "value": "total revenues and receipts from whatever source (cash, credit, barter, trade or other consideration), less bona fide refunds, rebates or discounts; excludes sales taxes collected from customers and paid to the taxing authority",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "7"
+    },
+    "minimum_annual_royalty_schedule": {
+      "field": "minimum_annual_royalty_schedule",
+      "value": {
+        "year_1": 4500,
+        "year_2": 6750,
+        "year_3": 9000,
+        "year_4": 11250,
+        "year_5": 13500,
+        "year_6": 15750,
+        "year_7": 18000,
+        "year_8": 20250,
+        "year_9": 22500,
+        "year_10": 24750
+      },
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "8"
+    },
+    "minimum_royalty_trueup_date": {
+      "field": "minimum_royalty_trueup_date",
+      "value": "by January 18th of the calendar year following the applicable year of operations",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "8"
+    },
+    "minimum_royalty_proration": {
+      "field": "minimum_royalty_proration",
+      "value": "Year 1 Minimum Annual Royalty pro-rated by number of days open vs 365 if less than a full year",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "8"
+    },
+    "minimum_royalty_no_territory_offset": {
+      "field": "minimum_royalty_no_territory_offset",
+      "value": "excess royalty from one territory does not offset a minimum royalty deficiency in another territory",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "8"
+    },
+    "minimum_gross_sales_schedule": {
+      "field": "minimum_gross_sales_schedule",
+      "value": {
+        "year_1": 50000,
+        "year_2": 75000,
+        "year_3": 100000,
+        "year_4": 125000,
+        "year_5": 150000,
+        "year_6": 175000,
+        "year_7": 200000,
+        "year_8": 225000,
+        "year_9": 250000,
+        "year_10": 275000
+      },
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "8"
+    },
+    "additional_person_initial_training_fee": {
+      "field": "additional_person_initial_training_fee",
+      "value": 1000,
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "4",
+      "note": "per person beyond the 2 included"
+    },
+    "additional_onsite_assistance_fee": {
+      "field": "additional_onsite_assistance_fee",
+      "value": "$500 per day per person plus travel and living expenses",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "4-5"
+    },
+    "additional_photographer_training_fee": {
+      "field": "additional_photographer_training_fee",
+      "value": 2500,
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "5",
+      "note": "per additional photographer"
+    },
+    "background_check_fee": {
+      "field": "background_check_fee",
+      "value": "up to $125 per employee or independent contractor",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "5"
+    },
+    "transfer_fee": {
+      "field": "transfer_fee",
+      "value": "40% of then-current Initial Franchise Fee",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "5"
+    },
+    "renewal_fee": {
+      "field": "renewal_fee",
+      "value": 3000,
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "5"
+    },
+    "technology_fee_terms": {
+      "field": "technology_fee_terms",
+      "value": "$125/month or 1.5% of Gross Sales, whichever is greater; franchisor may waive or reduce based on franchisee performance",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "5"
+    },
+    "audit_fee_terms": {
+      "field": "audit_fee_terms",
+      "value": "cost of audit plus 18% interest per annum; payable only if audit shows understatement of at least 3% of Gross Sales for any month",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "5"
+    },
+    "lost_manual_fee": {
+      "field": "lost_manual_fee",
+      "value": 0,
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "5",
+      "note": "Manual is electronic"
+    },
+    "indemnification_fee": {
+      "field": "indemnification_fee",
+      "value": "as incurred",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "5"
+    },
+    "cost_of_defense_fee": {
+      "field": "cost_of_defense_fee",
+      "value": "as incurred",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "5"
+    },
+    "late_payment_interest": {
+      "field": "late_payment_interest",
+      "value": "18% per annum or the maximum rate allowed by law",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "6"
+    },
+    "system_modifications_cap": {
+      "field": "system_modifications_cap",
+      "value": "not to exceed $10,000 during the 10-year agreement",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "6"
+    },
+    "software_updates_fee": {
+      "field": "software_updates_fee",
+      "value": "then-current cost of update; software upgrades required at franchisor discretion",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "6"
+    },
+    "periodic_meetings_fee": {
+      "field": "periodic_meetings_fee",
+      "value": "meeting fee if any, plus personal travel and living expenses; attendance strongly recommended but not required",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "6"
+    },
+    "annual_conference_fee": {
+      "field": "annual_conference_fee",
+      "value": "up to $500 per person (currently $150 per person); $1,000 penalty for non-attendance; attendance mandatory",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "6"
+    },
+    "ongoing_set_purchases": {
+      "field": "ongoing_set_purchases",
+      "value": "$750-$2,000 per season; one Spring and one Fall set required each year",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "6"
+    },
+    "ongoing_marketing_material_purchases": {
+      "field": "ongoing_marketing_material_purchases",
+      "value": "$300-$800 per season",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "6"
+    },
+    "merchant_account_services_fee": {
+      "field": "merchant_account_services_fee",
+      "value": "will vary; must use franchisor-designated merchant account services and gateway provider; continuing fees paid directly to the provider",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "7"
+    },
+    "insurance_fee": {
+      "field": "insurance_fee",
+      "value": "amount of premium; if franchisee fails to obtain required insurance, franchisor may obtain it and franchisee must reimburse the full cost",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "7"
+    },
+    "fees_refundability": {
+      "field": "fees_refundability",
+      "value": "all fees paid to franchisor are non-refundable under any circumstances once paid",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "7"
+    },
+    "fees_uniformity": {
+      "field": "fees_uniformity",
+      "value": "all fees uniformly imposed except as noted",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "7"
+    },
+    "inv_initial_franchise_fee": {
+      "field": "inv_initial_franchise_fee",
+      "value": 39000,
+      "type": "absolute",
+      "item": "Item 7",
+      "page": "11"
+    },
+    "inv_computer_accessories": {
+      "field": "inv_computer_accessories",
+      "value": "$2,000 - $4,600",
+      "type": "absolute",
+      "item": "Item 7",
+      "page": "11"
+    },
+    "inv_software": {
+      "field": "inv_software",
+      "value": "$120 - $500",
+      "type": "absolute",
+      "item": "Item 7",
+      "page": "11"
+    },
+    "inv_equipment": {
+      "field": "inv_equipment",
+      "value": "$6,000 - $8,000",
+      "type": "absolute",
+      "item": "Item 7",
+      "page": "11"
+    },
+    "inv_travel_training": {
+      "field": "inv_travel_training",
+      "value": "$2,000 - $5,400",
+      "type": "absolute",
+      "item": "Item 7",
+      "page": "11"
+    },
+    "inv_inventory": {
+      "field": "inv_inventory",
+      "value": "$350 - $600",
+      "type": "absolute",
+      "item": "Item 7",
+      "page": "11"
+    },
+    "inv_marketing_set_materials": {
+      "field": "inv_marketing_set_materials",
+      "value": "$1,000 - $1,800",
+      "type": "absolute",
+      "item": "Item 7",
+      "page": "11"
+    },
+    "inv_technology_fee_first_3mo": {
+      "field": "inv_technology_fee_first_3mo",
+      "value": "$375 - $750",
+      "type": "absolute",
+      "item": "Item 7",
+      "page": "11"
+    },
+    "inv_business_licenses": {
+      "field": "inv_business_licenses",
+      "value": "$50 - $500",
+      "type": "absolute",
+      "item": "Item 7",
+      "page": "11"
+    },
+    "inv_legal_accounting": {
+      "field": "inv_legal_accounting",
+      "value": "$500 - $1,000",
+      "type": "absolute",
+      "item": "Item 7",
+      "page": "11"
+    },
+    "inv_initial_insurance": {
+      "field": "inv_initial_insurance",
+      "value": "$400 - $700",
+      "type": "absolute",
+      "item": "Item 7",
+      "page": "11"
+    },
+    "inv_additional_funds_3mo": {
+      "field": "inv_additional_funds_3mo",
+      "value": "$900 - $1,500",
+      "type": "absolute",
+      "item": "Item 7",
+      "page": "11"
+    },
+    "inv_total_range": {
+      "field": "inv_total_range",
+      "value": "$52,695 - $64,350",
+      "type": "absolute",
+      "item": "Item 7",
+      "page": "11"
+    },
+    "inv_equipment_spec": {
+      "field": "inv_equipment_spec",
+      "value": "three (3) professional strobe lights, modifiers and stands, a backdrop stand, two (2) 24 megapixel mirrorless or DSLR cameras, and a 24-105mm f4 lens",
+      "type": "absolute",
+      "item": "Item 7",
+      "page": "12"
+    },
+    "supply_dev_purchase_pct": {
+      "field": "supply_dev_purchase_pct",
+      "value": "80% to 90% of development expenses for required or specification purchases/leases",
+      "type": "absolute",
+      "item": "Item 8",
+      "page": "13"
+    },
+    "supply_ongoing_purchase_pct": {
+      "field": "supply_ongoing_purchase_pct",
+      "value": "60% to 70% of ongoing operation expenses for required or specification purchases/leases",
+      "type": "absolute",
+      "item": "Item 8",
+      "page": "13"
+    },
+    "supply_sole_approved_supplier": {
+      "field": "supply_sole_approved_supplier",
+      "value": "franchisor is the only approved supplier for the Technology Fee and for Inventory and Marketing Materials",
+      "type": "absolute",
+      "item": "Item 8",
+      "page": "13"
+    },
+    "supply_optional_file_processing": {
+      "field": "supply_optional_file_processing",
+      "value": "franchisor is a supplier for optional file processing for franchisees",
+      "type": "absolute",
+      "item": "Item 8",
+      "page": "13"
+    },
+    "supply_fy2023_materials_revenue": {
+      "field": "supply_fy2023_materials_revenue",
+      "value": 50337,
+      "type": "absolute",
+      "item": "Item 8",
+      "page": "13",
+      "note": "from sale of materials and marketing supplies purchased from suppliers on behalf of franchisees"
+    },
+    "supply_fy2023_training_conference_revenue": {
+      "field": "supply_fy2023_training_conference_revenue",
+      "value": 29326,
+      "type": "absolute",
+      "item": "Item 8",
+      "page": "13",
+      "note": "additional photographer training and annual conference fees and lodging collected from franchisees"
+    },
+    "supply_fy2023_tech_fee_revenue": {
+      "field": "supply_fy2023_tech_fee_revenue",
+      "value": 13625,
+      "type": "absolute",
+      "item": "Item 8",
+      "page": "13"
+    },
+    "supply_revenue_rights": {
+      "field": "supply_revenue_rights",
+      "value": "franchisor reserves the right to derive revenue from franchisee purchases or leases from approved or designated suppliers and distributors",
+      "type": "absolute",
+      "item": "Item 8",
+      "page": "13"
+    },
+    "supply_cooperatives": {
+      "field": "supply_cooperatives",
+      "value": "insufficient-data: no purchasing or distribution cooperatives",
+      "type": "absolute",
+      "item": "Item 8",
+      "page": "14"
+    },
+    "supply_rebates": {
+      "field": "supply_rebates",
+      "value": "no caps or limitations on maximum rebates from suppliers; currently receives no revenue or other material consideration from third-party suppliers on franchisee purchases",
+      "type": "absolute",
+      "item": "Item 8",
+      "page": "14"
+    },
+    "supply_approval_timeline": {
+      "field": "supply_approval_timeline",
+      "value": "supplier/item approval decision usually within thirty (30) days of receiving required information",
+      "type": "absolute",
+      "item": "Item 8",
+      "page": "14"
+    },
+    "supply_computer_system": {
+      "field": "supply_computer_system",
+      "value": "required; computer system cost between $2,000 - $4,500; Adobe Lightroom, Bridge and Photoshop subscriptions currently $10/month as a bundle",
+      "type": "absolute",
+      "item": "Item 8",
+      "page": "14"
+    },
+    "supply_insurance_requirements": {
+      "field": "supply_insurance_requirements",
+      "value": "must purchase/maintain insurance per Franchise Agreement Section 15; policies must name franchisor as additional insured and/or loss payee",
+      "type": "absolute",
+      "item": "Item 8",
+      "page": "15"
+    },
+    "supply_background_screening": {
+      "field": "supply_background_screening",
+      "value": "comprehensive criminal background screening required for officers, directors, owners and employees; franchisee pays employee screening expense; may be required yearly without notice",
+      "type": "absolute",
+      "item": "Item 8",
+      "page": "15"
+    },
+    "franchisee_obligations_table": {
+      "field": "franchisee_obligations_table",
+      "value": [
+        {
+          "obligation": "site selection and acquisition/lease",
+          "fa_section": "Section 2",
+          "fdd_item": "ITEM 12"
+        },
+        {
+          "obligation": "pre-opening purchase/leases",
+          "fa_section": "Section 5",
+          "fdd_item": "ITEMS 5 & 7"
+        },
+        {
+          "obligation": "site development and other pre-opening requirements",
+          "fa_section": "Section 5",
+          "fdd_item": "ITEMS 5 & 7"
+        },
+        {
+          "obligation": "initial and ongoing training",
+          "fa_section": "Section 8",
+          "fdd_item": "ITEMS 6, 7, & 11"
+        },
+        {
+          "obligation": "opening",
+          "fa_section": "Section 5",
+          "fdd_item": "ITEMS 5, 6, 7, & 11"
+        },
+        {
+          "obligation": "fees",
+          "fa_section": "Section 3",
+          "fdd_item": "ITEMS 5, 6 and 7"
+        },
+        {
+          "obligation": "compliance with standards and policies/operations manual",
+          "fa_section": "Sections 9 and 13",
+          "fdd_item": "ITEM 11"
+        },
+        {
+          "obligation": "trademarks and proprietary information",
+          "fa_section": "Sections 6 and 7",
+          "fdd_item": "ITEMS 13 and 14"
+        },
+        {
+          "obligation": "restrictions on products/services offered",
+          "fa_section": "Section 13",
+          "fdd_item": "ITEM 7"
+        },
+        {
+          "obligation": "warranty and customer service requirements",
+          "fa_section": "Section 13",
+          "fdd_item": "ITEM 11"
+        },
+        {
+          "obligation": "territorial development and sales quotas",
+          "fa_section": "Sections 2, 11 and 13",
+          "fdd_item": "ITEM 11"
+        },
+        {
+          "obligation": "ongoing product/service purchases",
+          "fa_section": "Sections 10 and 13",
+          "fdd_item": "ITEM 11"
+        },
+        {
+          "obligation": "maintenance, appearance, and remodeling requirements",
+          "fa_section": "Not Applicable",
+          "fdd_item": "Not Applicable"
+        },
+        {
+          "obligation": "insurance",
+          "fa_section": "Section 15",
+          "fdd_item": "ITEMS 6, 7 and 8"
+        },
+        {
+          "obligation": "advertising",
+          "fa_section": "Section 11",
+          "fdd_item": "ITEMS 6 and 11"
+        },
+        {
+          "obligation": "indemnification",
+          "fa_section": "Section 21",
+          "fdd_item": "ITEM 6"
+        },
+        {
+          "obligation": "owner's participation / management / staffing",
+          "fa_section": "Section 13",
+          "fdd_item": "ITEMS 11 and 15"
+        },
+        {
+          "obligation": "records and reports",
+          "fa_section": "Section 12",
+          "fdd_item": "ITEMS 6 and 17"
+        },
+        {
+          "obligation": "inspections and audits",
+          "fa_section": "Section 12",
+          "fdd_item": "ITEMS 6 and 17"
+        },
+        {
+          "obligation": "transfer",
+          "fa_section": "Section 18",
+          "fdd_item": "ITEMS 6 and 17"
+        },
+        {
+          "obligation": "renewal",
+          "fa_section": "Section 4",
+          "fdd_item": "ITEM 17"
+        },
+        {
+          "obligation": "post-termination obligations",
+          "fa_section": "Section 17",
+          "fdd_item": "ITEM 17"
+        },
+        {
+          "obligation": "non-competition covenants",
+          "fa_section": "Sections 7 and 17",
+          "fdd_item": "ITEM 17"
+        },
+        {
+          "obligation": "dispute resolution",
+          "fa_section": "Section 23",
+          "fdd_item": "ITEM 17"
+        },
+        {
+          "obligation": "guarantee of franchisee obligations",
+          "fa_section": "Section 25",
+          "fdd_item": "Attachments B and C of the Franchise Agreement"
+        }
+      ],
+      "type": "absolute",
+      "item": "Item 9",
+      "page": "16-17"
+    },
+    "financing_offered": {
+      "field": "financing_offered",
+      "value": "insufficient-data: franchisor does not offer direct or indirect financing",
+      "type": "absolute",
+      "item": "Item 10",
+      "page": "18"
+    },
+    "financing_guaranty": {
+      "field": "financing_guaranty",
+      "value": "insufficient-data: franchisor does not guarantee the franchisee's note, lease or any other financial obligation",
+      "type": "absolute",
+      "item": "Item 10",
+      "page": "18"
+    },
+    "preopen_designate_territory": {
+      "field": "preopen_designate_territory",
+      "value": "franchisor designates the Protected Territory (FA Section 2.5)",
+      "type": "absolute",
+      "item": "Item 11",
+      "page": "18"
+    },
+    "preopen_initial_training": {
+      "field": "preopen_initial_training",
+      "value": "8-day initial training for franchisee plus one additional person in Huntsville, AL (or designated location); franchisee pays all travel expenses for all participants",
+      "type": "absolute",
+      "item": "Item 11",
+      "page": "18"
+    },
+    "preopen_onsite_assistance": {
+      "field": "preopen_onsite_assistance",
+      "value": "approximately 2 days of on-site assistance and guidance for the first photo session",
+      "type": "absolute",
+      "item": "Item 11",
+      "page": "18"
+    },
+    "preopen_manual": {
+      "field": "preopen_manual",
+      "value": "one copy of the Manual on loan, approximately 260 pages (table of contents in Exhibit D)",
+      "type": "absolute",
+      "item": "Item 11",
+      "page": "18"
+    },
+    "preopen_equipment_specs": {
+      "field": "preopen_equipment_specs",
+      "value": "specifications for all initial and replacement equipment, tools, inventory and supplies (FA Section 5.2)",
+      "type": "absolute",
+      "item": "Item 11",
+      "page": "18"
+    },
+    "ongoing_guidance": {
+      "field": "ongoing_guidance",
+      "value": "advice and general guidance by telephone, e-mail, newsletters and other methods (pricing, operating problems, accounting, marketing and sales strategies)",
+      "type": "absolute",
+      "item": "Item 11",
+      "page": "19"
+    },
+    "ongoing_system_changes": {
+      "field": "ongoing_system_changes",
+      "value": "changes and additions to the System as generally made available to all franchisees",
+      "type": "absolute",
+      "item": "Item 11",
+      "page": "19"
+    },
+    "ongoing_research": {
+      "field": "ongoing_research",
+      "value": "research of new Products, Services and methods of doing business",
+      "type": "absolute",
+      "item": "Item 11",
+      "page": "19"
+    },
+    "annual_conference": {
+      "field": "annual_conference",
+      "value": "annual conference; attendance mandatory for franchisees; current fee $150 per person; $1,000 penalty for non-attendance",
+      "type": "absolute",
+      "item": "Item 11",
+      "page": "19"
+    },
+    "advertising_approval": {
+      "field": "advertising_approval",
+      "value": "franchisor approves all advertising/marketing/media materials; franchisee requests reviewed in writing within 14 days; silence equals disapproval",
+      "type": "absolute",
+      "item": "Item 11",
+      "page": "20"
+    },
+    "ad_internet_rights": {
+      "field": "ad_internet_rights",
+      "value": "franchisor has sole right to market on the Internet and use the Marks online; franchisee may not register domains or market online without written approval",
+      "type": "absolute",
+      "item": "Item 11",
+      "page": "20"
+    },
+    "ad_territory_development_assistance": {
+      "field": "ad_territory_development_assistance",
+      "value": "initial territory development assistance including account acquisition assistance (research, promotion, direction, sales assistance)",
+      "type": "absolute",
+      "item": "Item 11",
+      "page": "21"
+    },
+    "computer_system_cost": {
+      "field": "computer_system_cost",
+      "value": "$2,000 - $4,500",
+      "type": "absolute",
+      "item": "Item 11",
+      "page": "21"
+    },
+    "computer_adobe_subscriptions": {
+      "field": "computer_adobe_subscriptions",
+      "value": "Adobe Lightroom, Adobe Bridge, Adobe Photoshop; currently $10/month as a bundle",
+      "type": "absolute",
+      "item": "Item 11",
+      "page": "21"
+    },
+    "computer_email_requirement": {
+      "field": "computer_email_requirement",
+      "value": "must maintain an email account and check it at least once every day",
+      "type": "absolute",
+      "item": "Item 11",
+      "page": "21"
+    },
+    "computer_franchisor_data_access": {
+      "field": "computer_franchisor_data_access",
+      "value": "franchisor may independently access electronic information and data at any time without notice; no limitation on receipt or use",
+      "type": "absolute",
+      "item": "Item 11",
+      "page": "21"
+    },
+    "time_to_open_typical": {
+      "field": "time_to_open_typical",
+      "value": "3 months from signing the Franchise Agreement",
+      "type": "absolute",
+      "item": "Item 11",
+      "page": "21"
+    },
+    "time_to_open_required": {
+      "field": "time_to_open_required",
+      "value": "must open and be operational within 4 months after signing",
+      "type": "absolute",
+      "item": "Item 11",
+      "page": "21"
+    },
+    "training_duration_days": {
+      "field": "training_duration_days",
+      "value": 8,
+      "type": "absolute",
+      "item": "Item 11",
+      "page": "21"
+    },
+    "training_topics": {
+      "field": "training_topics",
+      "value": [
+        "photographic techniques",
+        "sales and marketing methods",
+        "financial controls",
+        "maintenance of quality standards",
+        "customer service techniques",
+        "record keeping and reporting procedures",
+        "other operational issues",
+        "on-the-job training"
+      ],
+      "type": "absolute",
+      "item": "Item 11",
+      "page": "21"
+    },
+    "training_program_hours": {
+      "field": "training_program_hours",
+      "value": "31 classroom hours + 31 on-the-job hours (62 total)",
+      "type": "absolute",
+      "item": "Item 11",
+      "page": "23"
+    },
+    "training_refresher": {
+      "field": "training_refresher",
+      "value": "refresher programs at franchisee's expense; not more than 1 per calendar year; not exceeding 4 days per year",
+      "type": "absolute",
+      "item": "Item 11",
+      "page": "22"
+    },
+    "protected_territory": {
+      "field": "protected_territory",
+      "value": "one or more contiguous zip codes containing a population of at least 400,000 people",
+      "type": "absolute",
+      "item": "Item 12",
+      "page": "24"
+    },
+    "territory_school_service": {
+      "field": "territory_school_service",
+      "value": "franchisee may serve schools with addresses located within the zip codes of the Protected Area",
+      "type": "absolute",
+      "item": "Item 12",
+      "page": "24"
+    },
+    "exclusive_territory": {
+      "field": "exclusive_territory",
+      "value": "insufficient-data: franchisee does not receive an exclusive territory",
+      "type": "absolute",
+      "item": "Item 12",
+      "page": "24"
+    },
+    "minimum_performance_standards": {
+      "field": "minimum_performance_standards",
+      "value": {
+        "year_1": 50000,
+        "year_2": 75000,
+        "year_3": 100000,
+        "year_4": 125000,
+        "year_5": 150000,
+        "year_6": 175000,
+        "year_7": 200000,
+        "year_8": 225000,
+        "year_9": 250000,
+        "year_10": 275000
+      },
+      "type": "absolute",
+      "item": "Item 12",
+      "page": "25"
+    },
+    "mps_no_territory_offset": {
+      "field": "mps_no_territory_offset",
+      "value": "sales in excess of Minimum Performance Standards in one territory do not offset shortfalls in another territory",
+      "type": "absolute",
+      "item": "Item 12",
+      "page": "25"
+    },
+    "mps_failure_consequence": {
+      "field": "mps_failure_consequence",
+      "value": "failure to meet Minimum Performance Standards for 2 consecutive years: franchisor may terminate the Franchise Agreement or reduce the territory",
+      "type": "absolute",
+      "item": "Item 12",
+      "page": "25"
+    },
+    "outside_territory_revenue": {
+      "field": "outside_territory_revenue",
+      "value": "revenue from outside the Protected Territory without approval: 100% payable to franchisor or the territory's franchisee within 15 days",
+      "type": "absolute",
+      "item": "Item 12",
+      "page": "26"
+    },
+    "strategic_accounts_program": {
+      "field": "strategic_accounts_program",
+      "value": "franchisor may establish a Strategic Accounts program for national/regional customers; participants must comply with its standards and terms",
+      "type": "absolute",
+      "item": "Item 12",
+      "page": "26"
+    },
+    "reserved_rights": {
+      "field": "reserved_rights",
+      "value": [
+        "operate SRP businesses outside the protected territory",
+        "license other marks in similar or different operations",
+        "use Marks in alternative channels of distribution",
+        "offer Services/Products through wholesalers, retail, E-commerce or mail order",
+        "control websites/domains using Spoiled Rotten Photography",
+        "be acquired by a third party operating similar businesses",
+        "implement multi-area marketing programs",
+        "engage in any other activities not expressly prohibited"
+      ],
+      "type": "absolute",
+      "item": "Item 12",
+      "page": "24-25"
+    },
+    "no_first_refusal_additional_territory": {
+      "field": "no_first_refusal_additional_territory",
+      "value": "no right of first refusal, option rights, or similar contractual rights to acquire an additional territory or additional franchises",
+      "type": "absolute",
+      "item": "Item 12",
+      "page": "24"
+    },
+    "principal_mark": {
+      "field": "principal_mark",
+      "value": "SPOILED ROTTEN",
+      "type": "absolute",
+      "item": "Item 13",
+      "page": "27"
+    },
+    "pto_registration_number": {
+      "field": "pto_registration_number",
+      "value": "3,897,162",
+      "type": "absolute",
+      "item": "Item 13",
+      "page": "27"
+    },
+    "pto_registration_date": {
+      "field": "pto_registration_date",
+      "value": "December 28, 2010",
+      "type": "absolute",
+      "item": "Item 13",
+      "page": "27"
+    },
+    "pto_renewal_date": {
+      "field": "pto_renewal_date",
+      "value": "August 21, 2020",
+      "type": "absolute",
+      "item": "Item 13",
+      "page": "27"
+    },
+    "mark_rights_granted": {
+      "field": "mark_rights_granted",
+      "value": "nonexclusive right to use the Marks in operating the SRP Franchised Business",
+      "type": "absolute",
+      "item": "Item 13",
+      "page": "27"
+    },
+    "trademark_determinations": {
+      "field": "trademark_determinations",
+      "value": "insufficient-data: no effective material determinations, pending infringement/opposition/cancellation, or pending material litigation involving the Registered Mark",
+      "type": "absolute",
+      "item": "Item 13",
+      "page": "27"
+    },
+    "trademark_infringing_uses": {
+      "field": "trademark_infringing_uses",
+      "value": "insufficient-data: no infringing or prior superior uses known that could materially affect use of the Registered Mark",
+      "type": "absolute",
+      "item": "Item 13",
+      "page": "27"
+    },
+    "trademark_limiting_agreements": {
+      "field": "trademark_limiting_agreements",
+      "value": "insufficient-data: no agreements currently in effect limiting rights to use or license the Registered Mark",
+      "type": "absolute",
+      "item": "Item 13",
+      "page": "28"
+    },
+    "mark_internet_use": {
+      "field": "mark_internet_use",
+      "value": "franchisor retains sole right to advertise on the Internet and create websites using the Marks as domain names",
+      "type": "absolute",
+      "item": "Item 13",
+      "page": "27"
+    },
+    "mark_infringement_notice": {
+      "field": "mark_infringement_notice",
+      "value": "franchisee must notify franchisor within 3 days of any apparent infringement of or challenge to the Marks",
+      "type": "absolute",
+      "item": "Item 13",
+      "page": "27"
+    },
+    "manual_copyright": {
+      "field": "manual_copyright",
+      "value": "Manual is proprietary, protected by copyright and other laws; no copyright registration application filed; common law and federal copyrights claimed",
+      "type": "absolute",
+      "item": "Item 14",
+      "page": "29"
+    },
+    "confidential_information": {
+      "field": "confidential_information",
+      "value": "trade secrets, Strategic Accounts, methods of business management, sales and promotion techniques, know-how, and experience operating an SRP Portraiture Business",
+      "type": "absolute",
+      "item": "Item 14",
+      "page": "29"
+    },
+    "patents": {
+      "field": "patents",
+      "value": "insufficient-data: franchisor has no patents or pending patent applications related to the franchise",
+      "type": "absolute",
+      "item": "Item 14",
+      "page": "30"
+    },
+    "customer_records_rights": {
+      "field": "customer_records_rights",
+      "value": "franchisor owns and may inspect, copy and use all customer/supplier records and databases, before and after termination",
+      "type": "absolute",
+      "item": "Item 14",
+      "page": "30"
+    },
+    "ideas_assignment": {
+      "field": "ideas_assignment",
+      "value": "franchisee grants franchisor a perpetual, non-exclusive, worldwide right to use ideas, techniques and products conceived during the term, with no payment obligation",
+      "type": "absolute",
+      "item": "Item 14",
+      "page": "31"
+    },
+    "nondisclosure_agreements": {
+      "field": "nondisclosure_agreements",
+      "value": "owners, officers, directors, managers, employees and staff with access to Confidential Information may be required to sign nondisclosure and non-competition agreements",
+      "type": "absolute",
+      "item": "Item 14",
+      "page": "31"
+    },
+    "copyright_challenge_notice": {
+      "field": "copyright_challenge_notice",
+      "value": "franchisee must notify franchisor within 3 days of apparent infringement of Copyrighted Works or challenge to their use",
+      "type": "absolute",
+      "item": "Item 14",
+      "page": "30"
+    },
+    "designated_manager": {
+      "field": "designated_manager",
+      "value": "business must be managed by franchisee or an approved Designated Manager; manager must own at least 50% equity in the entity",
+      "type": "absolute",
+      "item": "Item 15",
+      "page": "32"
+    },
+    "manager_guaranty": {
+      "field": "manager_guaranty",
+      "value": "Designated Manager must guarantee performance of all franchisee obligations including confidentiality and non-competition",
+      "type": "absolute",
+      "item": "Item 15",
+      "page": "32"
+    },
+    "owner_guaranty": {
+      "field": "owner_guaranty",
+      "value": "each individual with any direct or indirect ownership interest must sign the Guaranty and Assumption of Franchisee's Obligations",
+      "type": "absolute",
+      "item": "Item 15",
+      "page": "32"
+    },
+    "must_offer_specified": {
+      "field": "must_offer_specified",
+      "value": "must offer all services and products specified by franchisor in strict accordance with standards",
+      "type": "absolute",
+      "item": "Item 16",
+      "page": "32"
+    },
+    "no_unauthorized_sales": {
+      "field": "no_unauthorized_sales",
+      "value": "may not sell services or products not authorized; must discontinue any disapproved by franchisor in writing",
+      "type": "absolute",
+      "item": "Item 16",
+      "page": "32"
+    },
+    "resale_price_controls": {
+      "field": "resale_price_controls",
+      "value": "franchisor reserves the right to establish maximum and minimum resale prices",
+      "type": "absolute",
+      "item": "Item 16",
+      "page": "32"
+    },
+    "system_modification_cap": {
+      "field": "system_modification_cap",
+      "value": "franchisee will not be required to spend more than $10,000 on modifications during the initial term",
+      "type": "absolute",
+      "item": "Item 16",
+      "page": "33"
+    },
+    "allowed_client_types": {
+      "field": "allowed_client_types",
+      "value": "school and pre-school students, sports teams, individuals in sporting apparel, events, gatherings, pets, families, groups, community organizations inside territory (revenue counts as Gross Revenue)",
+      "type": "absolute",
+      "item": "Item 16",
+      "page": "33"
+    },
+    "prohibited_photography": {
+      "field": "prohibited_photography",
+      "value": "may not photograph boudoir, pornographic, or violent images for personal or professional use during the term",
+      "type": "absolute",
+      "item": "Item 16",
+      "page": "33"
+    },
+    "initial_term_years": {
+      "field": "initial_term_years",
+      "value": 10,
+      "type": "absolute",
+      "item": "Item 17",
+      "page": "33"
+    },
+    "renewal_terms": {
+      "field": "renewal_terms",
+      "value": "3 additional terms of 5 years each",
+      "type": "absolute",
+      "item": "Item 17",
+      "page": "33"
+    },
+    "renewal_conditions": {
+      "field": "renewal_conditions",
+      "value": [
+        "substantially complied with the Franchise Agreement",
+        "capital expenditures as necessary for uniformity",
+        "all monetary obligations satisfied",
+        "not in default",
+        "timely written notice of intent to renew",
+        "sign current Franchise Agreement",
+        "meet current qualifications and training requirements",
+        "paid $3,000 Renewal Fee",
+        "sign general release"
+      ],
+      "type": "absolute",
+      "item": "Item 17",
+      "page": "33"
+    },
+    "termination_by_franchisee": {
+      "field": "termination_by_franchisee",
+      "value": "franchisee may terminate if in compliance and franchisor materially breaches and fails to begin cure within 30 days of written notice",
+      "type": "absolute",
+      "item": "Item 17",
+      "page": "34"
+    },
+    "termination_by_franchisor": {
+      "field": "termination_by_franchisor",
+      "value": "franchisor may terminate only if franchisee breaches or defaults",
+      "type": "absolute",
+      "item": "Item 17",
+      "page": "34"
+    },
+    "cure_periods": {
+      "field": "cure_periods",
+      "value": "10 days to cure failure to make payments; 30 days to cure failure to comply with mandatory specifications",
+      "type": "absolute",
+      "item": "Item 17",
+      "page": "35"
+    },
+    "noncurable_defaults": {
+      "field": "noncurable_defaults",
+      "value": [
+        "failure to open on or before projected opening date",
+        "failure to complete training",
+        "material misrepresentation or omission in application",
+        "felony conviction",
+        "disclosure of the Manual or Confidential Information",
+        "abandonment for 14 consecutive days",
+        "unauthorized transfer of control",
+        "failure to maintain Designated Manager supervision",
+        "understating fees owed by more than 3% on 2 or more occasions",
+        "bankruptcy or insolvency",
+        "unsatisfied judgment of record for 30+ days",
+        "misuse or unauthorized use of the Marks",
+        "failure to pay 2+ times in 12 months",
+        "failure to comply with good business practices",
+        "continued health/safety violations"
+      ],
+      "type": "absolute",
+      "item": "Item 17",
+      "page": "35"
+    },
+    "termination_without_cause": {
+      "field": "termination_without_cause",
+      "value": "insufficient-data: franchisor has no right to terminate without cause",
+      "type": "absolute",
+      "item": "Item 17",
+      "page": "36"
+    },
+    "post_termination_obligations": {
+      "field": "post_termination_obligations",
+      "value": [
+        "stop operating the SRP Franchised Business",
+        "stop using Confidential Information, the System and the Marks",
+        "stop using and return or deliver all client information",
+        "cancel or assign assumed names",
+        "pay all sums owed including enforcement costs",
+        "return the Manual and all Confidential Information",
+        "assign telephone/fax/email to franchisor",
+        "comply with non-compete covenants"
+      ],
+      "type": "absolute",
+      "item": "Item 17",
+      "page": "36"
+    },
+    "assignment_by_franchisor": {
+      "field": "assignment_by_franchisor",
+      "value": "no restrictions on franchisor's right to assign its interest in the Franchise Agreement",
+      "type": "absolute",
+      "item": "Item 17",
+      "page": "37"
+    },
+    "transfer_approval_required": {
+      "field": "transfer_approval_required",
+      "value": "franchisee may not transfer without prior written consent",
+      "type": "absolute",
+      "item": "Item 17",
+      "page": "37"
+    },
+    "transfer_conditions": {
+      "field": "transfer_conditions",
+      "value": [
+        "franchisor has not exercised right of first refusal",
+        "all obligations owed paid",
+        "general release signed",
+        "transferee meets business and financial standards",
+        "transferee signs then-current Franchise Agreement",
+        "transfer fee of 40% of then-current Initial Franchise Fee paid",
+        "transferee bound by all provisions",
+        "transferee Designated Manager completes initial training"
+      ],
+      "type": "absolute",
+      "item": "Item 17",
+      "page": "38"
+    },
+    "right_of_first_refusal": {
+      "field": "right_of_first_refusal",
+      "value": "franchisor may match an offer for the franchised business or an ownership interest",
+      "type": "absolute",
+      "item": "Item 17",
+      "page": "38"
+    },
+    "death_disability_transfer": {
+      "field": "death_disability_transfer",
+      "value": "representative must transfer interest within 180 days of death or incapacity or franchisor may terminate",
+      "type": "absolute",
+      "item": "Item 17",
+      "page": "39"
+    },
+    "noncompete_during_term": {
+      "field": "noncompete_during_term",
+      "value": "franchisee, owners, officers, directors, managers and professional staff prohibited from diverting business or owning/working for a Competitive Business",
+      "type": "absolute",
+      "item": "Item 17",
+      "page": "39"
+    },
+    "noncompete_after_term": {
+      "field": "noncompete_after_term",
+      "value": "2 years after termination/expiration; within 25 miles of Approved Location or Protected Territory (whichever greater) or any other SRP business",
+      "type": "absolute",
+      "item": "Item 17",
+      "page": "40"
+    },
+    "dispute_arbitration": {
+      "field": "dispute_arbitration",
+      "value": "all disputes (except Marks, Confidential Information, injunctive relief) arbitrated in Madison County, Alabama",
+      "type": "absolute",
+      "item": "Item 17",
+      "page": "40"
+    },
+    "dispute_forum": {
+      "field": "dispute_forum",
+      "value": "litigation in courts located in Madison County, Alabama",
+      "type": "absolute",
+      "item": "Item 17",
+      "page": "40"
+    },
+    "choice_of_law": {
+      "field": "choice_of_law",
+      "value": "Alabama law applies (subject to state law); disputes over Marks governed by the Lanham Act",
+      "type": "absolute",
+      "item": "Item 17",
+      "page": "40"
+    },
+    "public_figures": {
+      "field": "public_figures",
+      "value": "insufficient-data: franchisor does not presently use any public figures to promote, endorse, or recommend the franchise",
+      "type": "absolute",
+      "item": "Item 18",
+      "page": "41"
+    },
+    "item19_corporate_locations": {
+      "field": "item19_corporate_locations",
+      "value": "4 SRP Businesses operated by franchisor's affiliate as of issuance date",
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "41"
+    },
+    "item19_huntsville_opened": {
+      "field": "item19_huntsville_opened",
+      "value": "January 2003 (Huntsville, Alabama)",
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "41"
+    },
+    "item19_huntsville_2024_sales": {
+      "field": "item19_huntsville_2024_sales",
+      "value": 867191,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "48"
+    },
+    "item19_huntsville_2024_net_profit": {
+      "field": "item19_huntsville_2024_net_profit",
+      "value": 219757,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "48"
+    },
+    "item19_huntsville_2024_net_margin_pct": {
+      "field": "item19_huntsville_2024_net_margin_pct",
+      "value": 25,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "48"
+    },
+    "item19_system_sales_2022": {
+      "field": "item19_system_sales_2022",
+      "value": 3090461,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "44"
+    },
+    "item19_system_sales_2023": {
+      "field": "item19_system_sales_2023",
+      "value": 4133972,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "44"
+    },
+    "item19_system_sales_2024": {
+      "field": "item19_system_sales_2024",
+      "value": 5566371,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "44"
+    },
+    "item19_avg_gross_sales_2024": {
+      "field": "item19_avg_gross_sales_2024",
+      "value": 279597,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "46"
+    },
+    "item19_median_gross_sales_2024": {
+      "field": "item19_median_gross_sales_2024",
+      "value": 171605,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "46"
+    },
+    "item19_avg_sales_basis_2024": {
+      "field": "item19_avg_sales_basis_2024",
+      "value": "19 SRP locations (18 franchised, 1 corporate) operating full-time for the entire 2024 calendar year",
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "46"
+    },
+    "item19_top_third_2024_avg": {
+      "field": "item19_top_third_2024_avg",
+      "value": 558770,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "47"
+    },
+    "item19_middle_third_2024_avg": {
+      "field": "item19_middle_third_2024_avg",
+      "value": 194706,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "47"
+    },
+    "item19_bottom_third_2024_avg": {
+      "field": "item19_bottom_third_2024_avg",
+      "value": 99461,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "47"
+    },
+    "item19_franklin_2024_sales": {
+      "field": "item19_franklin_2024_sales",
+      "value": 788680,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "51"
+    },
+    "item19_franklin_2024_net_profit": {
+      "field": "item19_franklin_2024_net_profit",
+      "value": 261085,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "51"
+    },
+    "item19_franklin_2024_net_margin_pct": {
+      "field": "item19_franklin_2024_net_margin_pct",
+      "value": 33,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "51"
+    },
+    "item19_ownership_margins_2024": {
+      "field": "item19_ownership_margins_2024",
+      "value": {
+        "owner_operators": "50.70%",
+        "operators_with_teams": "41.20%",
+        "with_general_manager": "25.34%"
+      },
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "79"
+    },
+    "item19_first_full_year_avg_2024": {
+      "field": "item19_first_full_year_avg_2024",
+      "value": 138688,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "80",
+      "note": "5 locations in first full year during 2024"
+    },
+    "item19_basis_and_disclaimer": {
+      "field": "item19_basis_and_disclaimer",
+      "value": "prepared without an audit; no certified public accountant has audited these figures or expressed an opinion; figures reported by franchisees. 'Some outlets have earned this amount. Your individual results may differ. There is no assurance that you will earn or sell as much.'",
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "81"
+    },
+    "outlets_2024_franchised_end": {
+      "field": "outlets_2024_franchised_end",
+      "value": 25,
+      "type": "absolute",
+      "item": "Item 20",
+      "page": "82"
+    },
+    "outlets_2024_company_end": {
+      "field": "outlets_2024_company_end",
+      "value": 4,
+      "type": "absolute",
+      "item": "Item 20",
+      "page": "82"
+    },
+    "outlets_2024_total_end": {
+      "field": "outlets_2024_total_end",
+      "value": 29,
+      "type": "absolute",
+      "item": "Item 20",
+      "page": "82"
+    },
+    "outlets_2023_total_end": {
+      "field": "outlets_2023_total_end",
+      "value": 22,
+      "type": "absolute",
+      "item": "Item 20",
+      "page": "82"
+    },
+    "outlets_2022_total_end": {
+      "field": "outlets_2022_total_end",
+      "value": 17,
+      "type": "absolute",
+      "item": "Item 20",
+      "page": "82"
+    },
+    "franchised_opened_2024": {
+      "field": "franchised_opened_2024",
+      "value": 6,
+      "type": "absolute",
+      "item": "Item 20",
+      "page": "83"
+    },
+    "franchised_ceased_2024": {
+      "field": "franchised_ceased_2024",
+      "value": 1,
+      "type": "absolute",
+      "item": "Item 20",
+      "page": "83"
+    },
+    "company_opened_2024": {
+      "field": "company_opened_2024",
+      "value": 2,
+      "type": "absolute",
+      "item": "Item 20",
+      "page": "84"
+    },
+    "company_ceased_2024": {
+      "field": "company_ceased_2024",
+      "value": 1,
+      "type": "absolute",
+      "item": "Item 20",
+      "page": "84"
+    },
+    "company_reacquired_2024": {
+      "field": "company_reacquired_2024",
+      "value": 1,
+      "type": "absolute",
+      "item": "Item 20",
+      "page": "84"
+    },
+    "transfers_2022": {
+      "field": "transfers_2022",
+      "value": "1 (North Carolina)",
+      "type": "absolute",
+      "item": "Item 20",
+      "page": "82"
+    },
+    "projected_new_franchised_next_year": {
+      "field": "projected_new_franchised_next_year",
+      "value": 11,
+      "type": "absolute",
+      "item": "Item 20",
+      "page": "85"
+    },
+    "outlets_franchised_by_state_2024": {
+      "field": "outlets_franchised_by_state_2024",
+      "value": {
+        "AL": 1,
+        "AZ": 2,
+        "CO": 2,
+        "FL": 1,
+        "GA": 3,
+        "NJ": 1,
+        "MO": 2,
+        "NC": 2,
+        "OH": 1,
+        "SC": 0,
+        "TN": 1,
+        "TX": 9
+      },
+      "type": "absolute",
+      "item": "Item 20",
+      "page": "83"
+    },
+    "exhibit_f_current_franchisees": {
+      "field": "exhibit_f_current_franchisees",
+      "value": "25 current franchisees listed with name, city and phone as of December 31, 2024",
+      "type": "absolute",
+      "item": "Exhibit F",
+      "page": "1"
+    },
+    "exhibit_f_former_12mo": {
+      "field": "exhibit_f_former_12mo",
+      "value": "1 former franchisee in the one-year period ending December 31, 2024: Columbia, SC",
+      "type": "absolute",
+      "item": "Exhibit F",
+      "page": "2"
+    },
+    "financial_statements": {
+      "field": "financial_statements",
+      "value": "audited financial statements as of December 31, 2022, December 31, 2023, and December 31, 2024 attached as Exhibit C",
+      "type": "absolute",
+      "item": "Item 21",
+      "page": "86"
+    },
+    "fiscal_year_end": {
+      "field": "fiscal_year_end",
+      "value": "December 31",
+      "type": "absolute",
+      "item": "Item 21",
+      "page": "86"
+    },
+    "franchise_agreement_attached": {
+      "field": "franchise_agreement_attached",
+      "value": "The Purple Crown, LLC Franchise Agreement attached as Exhibit A",
+      "type": "absolute",
+      "item": "Item 22",
+      "page": "86"
+    },
+    "agreement_attachments": {
+      "field": "agreement_attachments",
+      "value": [
+        "Attachment A - General Release",
+        "Attachment B - Nondisclosure and Non-competition Agreement",
+        "Attachment C - Guaranty and Assumption of Franchisee's Obligations",
+        "Attachment D - Holders of Legal or Beneficial Interest in Franchisee",
+        "Attachment E - Electronic Funds Transfers Authorization Agreement"
+      ],
+      "type": "absolute",
+      "item": "Item 22",
+      "page": "86"
+    },
+    "other_contracts": {
+      "field": "other_contracts",
+      "value": "insufficient-data: franchisor provides no other contracts or agreements for signature",
+      "type": "absolute",
+      "item": "Item 22",
+      "page": "86"
+    },
+    "risk_score_computed": {
+      "field": "risk_score_computed",
+      "value": 32,
+      "type": "theoretical",
+      "method": "5-factor 0-100 model (lower = lower risk): outlet stability 6/20 (3-yr franchised attrition ~10%), legal cleanliness 2/20 (zero litigation/bankruptcy), fee burden 11/20 (9% royalty + 1.5% tech + minimums), financial evidence quality 10/20 (unaudited, wide dispersion), trend momentum 3/20 (outlets 15->29, system sales +80% 2022-24)"
+    },
+    "closure_rate_3yr_pct": {
+      "field": "closure_rate_3yr_pct",
+      "value": 10,
+      "type": "theoretical",
+      "method": "method: franchised ceased-operations (Table No. 3: 0+1+1 = 2) divided by average year-end franchised outlets ((15+20+25)/3 = 20) over 2022-2024; excludes 2024 company-owned ceased 1 and reacquired 1"
+    },
+    "growth_trend": {
+      "field": "growth_trend",
+      "value": "system outlets 15 -> 29 (+93%) and system gross sales $3,090,461 -> $5,566,371 (+80%) from 2022 to 2024; 11 new franchised outlets projected for next fiscal year",
+      "type": "theoretical",
+      "method": "method: Item 20 Table No. 1 year-end totals + Item 19 Table 2 system-wide gross sales + Item 20 Table No. 5 projections"
+    },
+    "fee_burden_effective_pct": {
+      "field": "fee_burden_effective_pct",
+      "value": 10.5,
+      "type": "theoretical",
+      "method": "method: 9% royalty (Item 6) + 1.5% technology fee (Item 6), before Minimum Annual Royalty true-ups (Item 6 Note 3)"
+    },
+    "payback_estimate": {
+      "field": "payback_estimate",
+      "value": "insufficient-data: payback cannot be computed - Item 19 provides revenue and partial P&L data but no owner-compensation, debt-service or tax figures; substantiation available from franchisor on reasonable request (Item 19 Notes)",
+      "type": "theoretical",
+      "method": "method: payback = initial investment / annual net cash flow; annual net cash flow unavailable in the FDD"
+    },
+    "saturation_estimate": {
+      "field": "saturation_estimate",
+      "value": "insufficient-data: FDD does not publish territory-level household/school counts or protected-territory saturation metrics",
+      "type": "theoretical",
+      "method": "method: protected-population coverage (400,000+ per territory, Item 12) divided by territory count - school-density data unavailable"
+    },
+    "operational_efficiency_labor_pct": {
+      "field": "operational_efficiency_labor_pct",
+      "value": 37,
+      "type": "theoretical",
+      "method": "method: Huntsville corporate 2024 P&L (Item 19 Table 9): labor lines (office manager $26,194 + photography teams $254,742 + processing $36,825 = $317,761) divided by 2024 sales $867,191; rounded; unaudited"
+    },
+    "support_quality_score": {
+      "field": "support_quality_score",
+      "value": "insufficient-data: no franchisee satisfaction survey data in the FDD; documented support inputs: 8-day initial training, 2 days on-site opening assistance, 260-page operations manual, annual conference, ongoing guidance (Item 11)",
+      "type": "theoretical",
+      "method": "method: franchisee satisfaction surveys - unavailable in FDD"
+    },
+    "territory_value_estimate": {
+      "field": "territory_value_estimate",
+      "value": "insufficient-data: protected territory = 400,000+ population zip cluster (Item 12); revenue potential varies by school density which is not disclosed",
+      "type": "theoretical",
+      "method": "method: population x school-enrollment capture rate - school-density data unavailable"
+    },
+    "capital_fit": {
+      "field": "capital_fit",
+      "value": "initial investment $52,695 - $64,350 (Item 7); method: match buyer liquid capital at or above ~1.5x the maximum investment",
+      "type": "matching",
+      "method": "buyer liquid capital >= ~$96,000"
+    },
+    "experience_fit": {
+      "field": "experience_fit",
+      "value": "no photography experience required; 8-day initial training provided (Item 11); method: match buyer willingness to complete training and hire/manage photographers",
+      "type": "matching",
+      "method": "buyer completes 8-day training; hires photographers as needed"
+    },
+    "operational_fit": {
+      "field": "operational_fit",
+      "value": "owner-operator or approved Designated Manager (50%+ equity) model (Item 15); seasonal school-year business (Item 7 note 12); method: match buyer availability for seasonality and hands-on management",
+      "type": "matching",
+      "method": "owner-operator or designated manager; seasonal rhythm"
+    },
+    "lifestyle_fit": {
+      "field": "lifestyle_fit",
+      "value": "community and school-facing, children-focused service business (Item 1); method: match buyer preference for family/community engagement",
+      "type": "matching",
+      "method": "family- and community-oriented operator"
+    },
+    "risk_fit": {
+      "field": "risk_fit",
+      "value": "risk score 32/100 (lower-moderate); method: match buyer risk tolerance to the 0-100 score band",
+      "type": "matching",
+      "method": "risk score 32/100 - lower-moderate"
+    },
+    "location_fit": {
+      "field": "location_fit",
+      "value": "protected territory of contiguous zip codes with 400,000+ population (Item 12); method: match buyer target market population",
+      "type": "matching",
+      "method": "target market 400,000+ population"
+    },
+    "timeline_fit": {
+      "field": "timeline_fit",
+      "value": "typical 3 months signing to opening; must open within 4 months (Item 11); method: match buyer start-date window",
+      "type": "matching",
+      "method": "signing to opening ~3 months"
+    },
+    "multiterritory_fit": {
+      "field": "multiterritory_fit",
+      "value": "additional franchises at 85% of then-current Initial Franchise Fee (Item 5); method: match buyer expansion intent",
+      "type": "matching",
+      "method": "multi-unit expansion available"
+    },
+    "netWorthRequirement": "not disclosed in FDD",
+    "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+    "liquidCapitalRequirement": "not disclosed in FDD",
+    "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+    "pinVerification": {
+      "run_at": "2026-09-13T01:47:30Z",
+      "all_verified": true,
+      "pins_total": 29
+    },
+    "pinsUpdatedAt": "2026-09-13T01:47:30Z"
+  },
+  "netWorthRequirement": "not disclosed in FDD",
+  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "liquidCapitalRequirement": "not disclosed in FDD",
+  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "pinVerification": {
+    "method": "Nominatim forward-geocode of each unique pin (city, state); haversine vs stored coords; tolerance 50.0km",
+    "run_at": "2026-09-13T01:47:30Z",
+    "pins_total": 29,
+    "pins_verified": 29,
+    "pins_unverifiable": 0,
+    "pins_mismatch": 0,
+    "all_verified": true,
+    "per_pin": [
+      {
+        "pin": 0,
+        "city": "Birmingham",
+        "state": "AL",
+        "stored": [
+          33.52068,
+          -86.80243
+        ],
+        "geocoded": [
+          33.5206824,
+          -86.8024326
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 1,
+        "city": "Gilbert",
+        "state": "AZ",
+        "stored": [
+          33.35276,
+          -111.78904
+        ],
+        "geocoded": [
+          33.3527632,
+          -111.789037
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 2,
+        "city": "Scottsdale",
+        "state": "AZ",
+        "stored": [
+          33.49422,
+          -111.92602
+        ],
+        "geocoded": [
+          33.4942189,
+          -111.926018
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 3,
+        "city": "Littleton",
+        "state": "CO",
+        "stored": [
+          39.61332,
+          -105.01665
+        ],
+        "geocoded": [
+          39.613321,
+          -105.016649
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 4,
+        "city": "Fountain",
+        "state": "CO",
+        "stored": [
+          38.68222,
+          -104.70081
+        ],
+        "geocoded": [
+          38.682219,
+          -104.7008056
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 5,
+        "city": "Tallahassee",
+        "state": "FL",
+        "stored": [
+          30.43808,
+          -84.28093
+        ],
+        "geocoded": [
+          30.4380832,
+          -84.2809332
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 6,
+        "city": "Woodstock",
+        "state": "GA",
+        "stored": [
+          34.10141,
+          -84.51922
+        ],
+        "geocoded": [
+          34.1014112,
+          -84.5192192
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 7,
+        "city": "Buckhead",
+        "state": "GA",
+        "stored": [
+          33.83981,
+          -84.37956
+        ],
+        "geocoded": [
+          33.8398137,
+          -84.3795589
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 8,
+        "city": "Duluth",
+        "state": "GA",
+        "stored": [
+          34.00286,
+          -84.1441
+        ],
+        "geocoded": [
+          34.0028569,
+          -84.1441046
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 9,
+        "city": "Kansas City",
+        "state": "MO",
+        "stored": [
+          39.1001,
+          -94.57814
+        ],
+        "geocoded": [
+          39.100105,
+          -94.5781416
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 10,
+        "city": "St. Louis",
+        "state": "MO",
+        "stored": [
+          38.62541,
+          -90.19001
+        ],
+        "geocoded": [
+          38.6254063,
+          -90.190009
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 11,
+        "city": "Wayne",
+        "state": "NJ",
+        "stored": [
+          40.94917,
+          -74.23768
+        ],
+        "geocoded": [
+          40.9491723,
+          -74.2376802
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 12,
+        "city": "Mooresville",
+        "state": "NC",
+        "stored": [
+          35.58486,
+          -80.81007
+        ],
+        "geocoded": [
+          35.5848596,
+          -80.8100724
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 13,
+        "city": "Cary",
+        "state": "NC",
+        "stored": [
+          35.78736,
+          -78.78116
+        ],
+        "geocoded": [
+          35.7873617,
+          -78.7811623
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 14,
+        "city": "Warren",
+        "state": "OH",
+        "stored": [
+          41.2367955,
+          -80.8190423
+        ],
+        "geocoded": [
+          41.2367955,
+          -80.8190423
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 15,
+        "city": "Brentwood",
+        "state": "TN",
+        "stored": [
+          36.03257,
+          -86.78252
+        ],
+        "geocoded": [
+          36.0325687,
+          -86.7825235
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 16,
+        "city": "Austin",
+        "state": "TX",
+        "stored": [
+          30.27113,
+          -97.7437
+        ],
+        "geocoded": [
+          30.2711286,
+          -97.7436995
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 17,
+        "city": "San Antonio",
+        "state": "TX",
+        "stored": [
+          29.4246,
+          -98.49514
+        ],
+        "geocoded": [
+          29.4246002,
+          -98.4951405
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 18,
+        "city": "New Braunfels",
+        "state": "TX",
+        "stored": [
+          29.70283,
+          -98.12573
+        ],
+        "geocoded": [
+          29.7028266,
+          -98.1257348
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 19,
+        "city": "Mansfield",
+        "state": "TX",
+        "stored": [
+          32.56349,
+          -97.14203
+        ],
+        "geocoded": [
+          32.563487,
+          -97.1420308
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 20,
+        "city": "Central Houston",
+        "state": "TX",
+        "stored": [
+          29.75894,
+          -95.3677
+        ],
+        "geocoded": [
+          29.6278616,
+          -95.4310227
+        ],
+        "distance_km": 15.81,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 21,
+        "city": "Katy",
+        "state": "TX",
+        "stored": [
+          29.78579,
+          -95.8244
+        ],
+        "geocoded": [
+          29.7857853,
+          -95.8243956
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 22,
+        "city": "Kingwood",
+        "state": "TX",
+        "stored": [
+          30.04971,
+          -95.18463
+        ],
+        "geocoded": [
+          30.0497077,
+          -95.1846301
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 23,
+        "city": "Frisco",
+        "state": "TX",
+        "stored": [
+          33.1506,
+          -96.82382
+        ],
+        "geocoded": [
+          33.1505998,
+          -96.8238183
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 24,
+        "city": "Prosper",
+        "state": "TX",
+        "stored": [
+          33.23716,
+          -96.7977
+        ],
+        "geocoded": [
+          33.2371585,
+          -96.7977048
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 25,
+        "city": "Huntsville",
+        "state": "AL",
+        "stored": [
+          34.72985,
+          -86.5859
+        ],
+        "geocoded": [
+          34.729847,
+          -86.5859011
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 26,
+        "city": "Rogers",
+        "state": "AR",
+        "stored": [
+          36.33486,
+          -94.11938
+        ],
+        "geocoded": [
+          36.334857,
+          -94.1193816
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 27,
+        "city": "Springfield",
+        "state": "MO",
+        "stored": [
+          37.20817,
+          -93.29227
+        ],
+        "geocoded": [
+          37.2081729,
+          -93.2922715
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 28,
+        "city": "Charleston",
+        "state": "SC",
+        "stored": [
+          32.78844,
+          -79.93993
+        ],
+        "geocoded": [
+          32.7884363,
+          -79.9399309
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      }
+    ]
+  },
+  "pinsUpdatedAt": "2026-09-13T01:47:30Z",
+  "risk_method": "outlet_stability 6/20 + legal_cleanliness 2/20 + fee_burden 11/20 + financial_evidence 10/20 + trend_momentum 3/20 = 32 (5-factor sum, lower = lower risk; source: builder build_fields.py)",
+  "risk_components": [
+    {
+      "name": "outlet_stability",
+      "weight": 1.0,
+      "note": "3-yr franchised attrition ~10% (lower = lower risk; /20 subscore summed)"
+    },
+    {
+      "name": "legal_cleanliness",
+      "weight": 1.0,
+      "note": "zero litigation/bankruptcy"
+    },
+    {
+      "name": "fee_burden",
+      "weight": 1.0,
+      "note": "9% royalty + 1.5% tech + minimums"
+    },
+    {
+      "name": "financial_evidence",
+      "weight": 1.0,
+      "note": "unaudited, wide dispersion"
+    },
+    {
+      "name": "trend_momentum",
+      "weight": 1.0,
+      "note": "outlets 15->29, system sales +80% 2022-24"
+    }
+  ],
+  "risk_source": "build_fields.py 5-factor model"
+}
