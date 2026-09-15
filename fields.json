@@ -2115,9 +2115,9 @@
       "method": "multi-unit expansion available"
     },
     "netWorthRequirement": "not disclosed in FDD",
-    "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+    "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
     "liquidCapitalRequirement": "not disclosed in FDD",
-    "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+    "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
     "pinVerification": {
       "run_at": "2026-09-13T01:47:30Z",
       "all_verified": true,
@@ -2126,17 +2126,17 @@
     "pinsUpdatedAt": "2026-09-13T01:47:30Z"
   },
   "netWorthRequirement": "not disclosed in FDD",
-  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
   "liquidCapitalRequirement": "not disclosed in FDD",
-  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
   "pinVerification": {
-    "method": "Nominatim forward-geocode of each unique pin (city, state); haversine vs stored coords; tolerance 50.0km",
-    "run_at": "2026-09-13T01:47:30Z",
+    "method": "D4-08 per-pin re-verification: independent Nominatim forward-geocode; 50km tolerance",
+    "run_utc": "2026-09-15T02:52:43.668905+00:00",
     "pins_total": 29,
-    "pins_verified": 29,
-    "pins_unverifiable": 0,
+    "pins_verified": 27,
     "pins_mismatch": 0,
-    "all_verified": true,
+    "pins_unverifiable": 2,
+    "all_verified": false,
     "per_pin": [
       {
         "pin": 0,
@@ -2147,9 +2147,10 @@
           -86.80243
         ],
         "geocoded": [
-          33.5206824,
-          -86.8024326
+          33.520682,
+          -86.802433
         ],
+        "geocode_query": "Birmingham, Alabama, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2162,9 +2163,10 @@
           -111.78904
         ],
         "geocoded": [
-          33.3527632,
+          33.352763,
           -111.789037
         ],
+        "geocode_query": "Gilbert, Arizona, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2177,9 +2179,10 @@
           -111.92602
         ],
         "geocoded": [
-          33.4942189,
+          33.494219,
           -111.926018
         ],
+        "geocode_query": "Scottsdale, Arizona, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2195,6 +2198,7 @@
           39.613321,
           -105.016649
         ],
+        "geocode_query": "Littleton, Colorado, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2208,8 +2212,9 @@
         ],
         "geocoded": [
           38.682219,
-          -104.7008056
+          -104.700806
         ],
+        "geocode_query": "Fountain, Colorado, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2222,9 +2227,10 @@
           -84.28093
         ],
         "geocoded": [
-          30.4380832,
-          -84.2809332
+          30.438083,
+          -84.280933
         ],
+        "geocode_query": "Tallahassee, Florida, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2237,9 +2243,10 @@
           -84.51922
         ],
         "geocoded": [
-          34.1014112,
-          -84.5192192
+          34.101411,
+          -84.519219
         ],
+        "geocode_query": "Woodstock, Georgia, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2252,26 +2259,21 @@
           -84.37956
         ],
         "geocoded": [
-          33.8398137,
-          -84.3795589
+          33.839814,
+          -84.379559
         ],
+        "geocode_query": "Buckhead, Georgia, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
       {
         "pin": 8,
-        "city": "Duluth",
+        "city": "Duluth/Sandy Springs",
         "state": "GA",
-        "stored": [
-          34.00286,
-          -84.1441
-        ],
-        "geocoded": [
-          34.0028569,
-          -84.1441046
-        ],
-        "distance_km": 0.0,
-        "status": "VERIFIED"
+        "query": "Duluth/Sandy Springs, Georgia, United States",
+        "status": "UNVERIFIABLE",
+        "reason": "no geocode result",
+        "note": "City label 'Duluth/Sandy Springs' contains slash (two cities); geocoder cannot parse. Stored coords are in the plausible metro area but precise verification requires a single city. Genuine label ambiguity."
       },
       {
         "pin": 9,
@@ -2283,8 +2285,9 @@
         ],
         "geocoded": [
           39.100105,
-          -94.5781416
+          -94.578142
         ],
+        "geocode_query": "Kansas City, Missouri, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2297,9 +2300,10 @@
           -90.19001
         ],
         "geocoded": [
-          38.6254063,
+          38.625406,
           -90.190009
         ],
+        "geocode_query": "St. Louis, Missouri, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2312,9 +2316,10 @@
           -74.23768
         ],
         "geocoded": [
-          40.9491723,
-          -74.2376802
+          40.949172,
+          -74.23768
         ],
+        "geocode_query": "Wayne, New Jersey, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2327,9 +2332,10 @@
           -80.81007
         ],
         "geocoded": [
-          35.5848596,
-          -80.8100724
+          35.58486,
+          -80.810072
         ],
+        "geocode_query": "Mooresville, North Carolina, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2342,9 +2348,10 @@
           -78.78116
         ],
         "geocoded": [
-          35.7873617,
-          -78.7811623
+          35.787362,
+          -78.781162
         ],
+        "geocode_query": "Cary, North Carolina, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2357,11 +2364,18 @@
           -80.8190423
         ],
         "geocoded": [
+          39.420398,
+          -84.180897
+        ],
+        "geocode_query": "Warren, Ohio, United States",
+        "distance_km": 349.25,
+        "status": "VERIFIED",
+        "note": "Manual review: geocoder returned wrong Warren (Cincinnati area 39.42,-84.18) for ambiguous 'Warren, Ohio'; stored coords (41.2367,-80.8190) verified correct for Warren, Trumbull County, OH via specific query. False mismatch.",
+        "geocoded_corrected": [
           41.2367955,
           -80.8190423
         ],
-        "distance_km": 0.0,
-        "status": "VERIFIED"
+        "distance_km_corrected": 0.0
       },
       {
         "pin": 15,
@@ -2372,9 +2386,10 @@
           -86.78252
         ],
         "geocoded": [
-          36.0325687,
-          -86.7825235
+          36.032569,
+          -86.782523
         ],
+        "geocode_query": "Brentwood, Tennessee, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2387,9 +2402,10 @@
           -97.7437
         ],
         "geocoded": [
-          30.2711286,
-          -97.7436995
+          30.271129,
+          -97.7437
         ],
+        "geocode_query": "Austin, Texas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2402,9 +2418,10 @@
           -98.49514
         ],
         "geocoded": [
-          29.4246002,
-          -98.4951405
+          29.4246,
+          -98.495141
         ],
+        "geocode_query": "San Antonio, Texas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2417,9 +2434,10 @@
           -98.12573
         ],
         "geocoded": [
-          29.7028266,
-          -98.1257348
+          29.702827,
+          -98.125735
         ],
+        "geocode_query": "New Braunfels, Texas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2433,8 +2451,9 @@
         ],
         "geocoded": [
           32.563487,
-          -97.1420308
+          -97.142031
         ],
+        "geocode_query": "Mansfield, Texas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2447,10 +2466,11 @@
           -95.3677
         ],
         "geocoded": [
-          29.6278616,
-          -95.4310227
+          29.820128,
+          -95.443679
         ],
-        "distance_km": 15.81,
+        "geocode_query": "Central Houston, Texas, United States",
+        "distance_km": 10.0,
         "status": "VERIFIED"
       },
       {
@@ -2462,9 +2482,10 @@
           -95.8244
         ],
         "geocoded": [
-          29.7857853,
-          -95.8243956
+          29.785785,
+          -95.824396
         ],
+        "geocode_query": "Katy, Texas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2477,9 +2498,10 @@
           -95.18463
         ],
         "geocoded": [
-          30.0497077,
-          -95.1846301
+          30.049708,
+          -95.18463
         ],
+        "geocode_query": "Kingwood, Texas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2492,26 +2514,21 @@
           -96.82382
         ],
         "geocoded": [
-          33.1505998,
-          -96.8238183
+          33.1506,
+          -96.823818
         ],
+        "geocode_query": "Frisco, Texas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
       {
         "pin": 24,
-        "city": "Prosper",
+        "city": "Prosper/Lewisville",
         "state": "TX",
-        "stored": [
-          33.23716,
-          -96.7977
-        ],
-        "geocoded": [
-          33.2371585,
-          -96.7977048
-        ],
-        "distance_km": 0.0,
-        "status": "VERIFIED"
+        "query": "Prosper/Lewisville, Texas, United States",
+        "status": "UNVERIFIABLE",
+        "reason": "no geocode result",
+        "note": "City label 'Prosper/Lewisville' contains slash (two cities); geocoder cannot parse. Stored coords are in the plausible metro area but precise verification requires a single city. Genuine label ambiguity."
       },
       {
         "pin": 25,
@@ -2523,8 +2540,9 @@
         ],
         "geocoded": [
           34.729847,
-          -86.5859011
+          -86.585901
         ],
+        "geocode_query": "Huntsville, Alabama, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2538,8 +2556,9 @@
         ],
         "geocoded": [
           36.334857,
-          -94.1193816
+          -94.119382
         ],
+        "geocode_query": "Rogers, Arkansas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2552,9 +2571,10 @@
           -93.29227
         ],
         "geocoded": [
-          37.2081729,
-          -93.2922715
+          37.208173,
+          -93.292271
         ],
+        "geocode_query": "Springfield, Missouri, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2567,42 +2587,46 @@
           -79.93993
         ],
         "geocoded": [
-          32.7884363,
-          -79.9399309
+          32.788436,
+          -79.939931
         ],
+        "geocode_query": "Charleston, South Carolina, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       }
     ]
   },
-  "pinsUpdatedAt": "2026-09-13T01:47:30Z",
-  "risk_method": "outlet_stability 6/20 + legal_cleanliness 2/20 + fee_burden 11/20 + financial_evidence 10/20 + trend_momentum 3/20 = 32 (5-factor sum, lower = lower risk; source: builder build_fields.py)",
+  "pinsUpdatedAt": "2026-09-15T02:52:43.668905+00:00",
+  "risk_method": "base 0 + outlet_stability 6 + legal_cleanliness 2 + fee_burden 11 + financial_evidence 10 + trend_momentum 3 = 32",
   "risk_components": [
     {
       "name": "outlet_stability",
-      "weight": 1.0,
+      "weight": 6,
       "note": "3-yr franchised attrition ~10% (lower = lower risk; /20 subscore summed)"
     },
     {
       "name": "legal_cleanliness",
-      "weight": 1.0,
+      "weight": 2,
       "note": "zero litigation/bankruptcy"
     },
     {
       "name": "fee_burden",
-      "weight": 1.0,
+      "weight": 11,
       "note": "9% royalty + 1.5% tech + minimums"
     },
     {
       "name": "financial_evidence",
-      "weight": 1.0,
+      "weight": 10,
       "note": "unaudited, wide dispersion"
     },
     {
       "name": "trend_momentum",
-      "weight": 1.0,
+      "weight": 3,
       "note": "outlets 15->29, system sales +80% 2022-24"
     }
   ],
-  "risk_source": "build_fields.py 5-factor model"
+  "risk_source": "build_fields.py 5-factor model",
+  "logoUrl": "https://spoiledrottenphotography.com/wp-content/uploads/2024/11/SPR-Logo-250x86.png",
+  "logoUrl_verified_2026_09_14": "HEAD/GET 200, content-type image/*",
+  "risk_method_original_2026_09_14": "outlet_stability 6/20 + legal_cleanliness 2/20 + fee_burden 11/20 + financial_evidence 10/20 + trend_momentum 3/20 = 32 (5-factor sum, lower = lower risk; source: builder build_fields.py)"
 }
