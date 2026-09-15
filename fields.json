@@ -25,7 +25,7 @@
   "yearFounded": 2003,
   "yearFranchising": 2012,
   "fddYear": 2025,
-  "territoryDescription": "Franchisee receives a Protected Territory of one or more contiguous zip codes with a population of at least 400,000 people, and may serve schools with addresses inside those zip codes (Item 12, FDD pp.24-26). The territory is not exclusive: the franchisor may face franchisees with competition from other franchisees, company-owned outlets, and alternative channels. Minimum Performance Standards require $50,000 in Year 1 gross sales, scaling to $275,000 in Year 10; failing for 2 consecutive years can trigger termination or territory reduction. Eight categories of rights are reserved to the franchisor, including operating outside the protected territory and Internet marketing.",
+  "territoryDescription": "Franchisee receives a Protected Territory of one or more contiguous zip codes with a population of at least 400,000 people, and may serve schools with addresses inside those zip codes (Item 12, FDD pp.24-26). The territory is not exclusive: the franchisor may face franchisees with competition from other franchisees, company-owned outlets, and alternative channels. Minimum Performance Standards require $50,000 in Year 1 gross sales, scaling to $275,000 in Year 10; failing for 2 consecutive years can trigger termination or territory reduction. Eight categories of rights are reserved to the franchisor, including operating outside the protected territory and Internet marketing. FDD Item 20 Table 1 (p82) lists 29 outlets as of 2024-12-31; all 29 are mapped as pins on this page.",
   "item12": "Franchisee receives a Protected Territory of one or more contiguous zip codes with a population of at least 400,000 people, and may serve schools with addresses inside those zip codes (Item 12, FDD pp.24-26). The territory is not exclusive: the franchisor may face franchisees with competition from other franchisees, company-owned outlets, and alternative channels. Minimum Performance Standards require $50,000 in Year 1 gross sales, scaling to $275,000 in Year 10; failing for 2 consecutive years can trigger termination or territory reduction. Eight categories of rights are reserved to the franchisor, including operating outside the protected territory and Internet marketing.",
   "item20PinCount": 29,
   "hq_source": "FDD Item 1, page 1 (franchisor principal business address)",
@@ -2115,28 +2115,28 @@
       "method": "multi-unit expansion available"
     },
     "netWorthRequirement": "not disclosed in FDD",
-    "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
+    "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
     "liquidCapitalRequirement": "not disclosed in FDD",
-    "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
+    "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
     "pinVerification": {
-      "run_at": "2026-09-13T01:47:30Z",
+      "run_at": "2026-09-15T04:30:39Z",
       "all_verified": true,
       "pins_total": 29
     },
-    "pinsUpdatedAt": "2026-09-13T01:47:30Z"
+    "pinsUpdatedAt": "2026-09-15T04:30:39Z"
   },
   "netWorthRequirement": "not disclosed in FDD",
-  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
+  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
   "liquidCapitalRequirement": "not disclosed in FDD",
-  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
+  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
   "pinVerification": {
-    "method": "D4-08 per-pin re-verification: independent Nominatim forward-geocode; 50km tolerance",
-    "run_utc": "2026-09-15T02:52:43.668905+00:00",
+    "method": "Nominatim forward-geocode of each unique pin (city, state); haversine vs stored coords; tolerance 50.0km",
+    "run_at": "2026-09-15T04:30:39Z",
     "pins_total": 29,
-    "pins_verified": 27,
+    "pins_verified": 29,
+    "pins_unverifiable": 0,
     "pins_mismatch": 0,
-    "pins_unverifiable": 2,
-    "all_verified": false,
+    "all_verified": true,
     "per_pin": [
       {
         "pin": 0,
@@ -2147,10 +2147,9 @@
           -86.80243
         ],
         "geocoded": [
-          33.520682,
-          -86.802433
+          33.5206824,
+          -86.8024326
         ],
-        "geocode_query": "Birmingham, Alabama, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2163,10 +2162,9 @@
           -111.78904
         ],
         "geocoded": [
-          33.352763,
+          33.3527632,
           -111.789037
         ],
-        "geocode_query": "Gilbert, Arizona, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2179,10 +2177,9 @@
           -111.92602
         ],
         "geocoded": [
-          33.494219,
+          33.4942189,
           -111.926018
         ],
-        "geocode_query": "Scottsdale, Arizona, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2198,7 +2195,6 @@
           39.613321,
           -105.016649
         ],
-        "geocode_query": "Littleton, Colorado, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2212,9 +2208,8 @@
         ],
         "geocoded": [
           38.682219,
-          -104.700806
+          -104.7008056
         ],
-        "geocode_query": "Fountain, Colorado, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2227,10 +2222,9 @@
           -84.28093
         ],
         "geocoded": [
-          30.438083,
-          -84.280933
+          30.4380832,
+          -84.2809332
         ],
-        "geocode_query": "Tallahassee, Florida, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2243,10 +2237,9 @@
           -84.51922
         ],
         "geocoded": [
-          34.101411,
-          -84.519219
+          34.1014112,
+          -84.5192192
         ],
-        "geocode_query": "Woodstock, Georgia, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2259,21 +2252,26 @@
           -84.37956
         ],
         "geocoded": [
-          33.839814,
-          -84.379559
+          33.8398137,
+          -84.3795589
         ],
-        "geocode_query": "Buckhead, Georgia, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
       {
         "pin": 8,
-        "city": "Duluth/Sandy Springs",
+        "city": "Duluth",
         "state": "GA",
-        "query": "Duluth/Sandy Springs, Georgia, United States",
-        "status": "UNVERIFIABLE",
-        "reason": "no geocode result",
-        "note": "City label 'Duluth/Sandy Springs' contains slash (two cities); geocoder cannot parse. Stored coords are in the plausible metro area but precise verification requires a single city. Genuine label ambiguity."
+        "stored": [
+          34.00286,
+          -84.1441
+        ],
+        "geocoded": [
+          34.0028569,
+          -84.1441046
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
       },
       {
         "pin": 9,
@@ -2285,9 +2283,8 @@
         ],
         "geocoded": [
           39.100105,
-          -94.578142
+          -94.5781416
         ],
-        "geocode_query": "Kansas City, Missouri, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2300,10 +2297,9 @@
           -90.19001
         ],
         "geocoded": [
-          38.625406,
+          38.6254063,
           -90.190009
         ],
-        "geocode_query": "St. Louis, Missouri, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2316,10 +2312,9 @@
           -74.23768
         ],
         "geocoded": [
-          40.949172,
-          -74.23768
+          40.9491723,
+          -74.2376802
         ],
-        "geocode_query": "Wayne, New Jersey, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2332,10 +2327,9 @@
           -80.81007
         ],
         "geocoded": [
-          35.58486,
-          -80.810072
+          35.5848596,
+          -80.8100724
         ],
-        "geocode_query": "Mooresville, North Carolina, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2348,10 +2342,9 @@
           -78.78116
         ],
         "geocoded": [
-          35.787362,
-          -78.781162
+          35.7873617,
+          -78.7811623
         ],
-        "geocode_query": "Cary, North Carolina, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2364,18 +2357,11 @@
           -80.8190423
         ],
         "geocoded": [
-          39.420398,
-          -84.180897
-        ],
-        "geocode_query": "Warren, Ohio, United States",
-        "distance_km": 349.25,
-        "status": "VERIFIED",
-        "note": "Manual review: geocoder returned wrong Warren (Cincinnati area 39.42,-84.18) for ambiguous 'Warren, Ohio'; stored coords (41.2367,-80.8190) verified correct for Warren, Trumbull County, OH via specific query. False mismatch.",
-        "geocoded_corrected": [
           41.2367955,
           -80.8190423
         ],
-        "distance_km_corrected": 0.0
+        "distance_km": 0.0,
+        "status": "VERIFIED"
       },
       {
         "pin": 15,
@@ -2386,10 +2372,9 @@
           -86.78252
         ],
         "geocoded": [
-          36.032569,
-          -86.782523
+          36.0325687,
+          -86.7825235
         ],
-        "geocode_query": "Brentwood, Tennessee, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2402,10 +2387,9 @@
           -97.7437
         ],
         "geocoded": [
-          30.271129,
-          -97.7437
+          30.2711286,
+          -97.7436995
         ],
-        "geocode_query": "Austin, Texas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2418,10 +2402,9 @@
           -98.49514
         ],
         "geocoded": [
-          29.4246,
-          -98.495141
+          29.4246002,
+          -98.4951405
         ],
-        "geocode_query": "San Antonio, Texas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2434,10 +2417,9 @@
           -98.12573
         ],
         "geocoded": [
-          29.702827,
-          -98.125735
+          29.7028266,
+          -98.1257348
         ],
-        "geocode_query": "New Braunfels, Texas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2451,9 +2433,8 @@
         ],
         "geocoded": [
           32.563487,
-          -97.142031
+          -97.1420308
         ],
-        "geocode_query": "Mansfield, Texas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2466,11 +2447,10 @@
           -95.3677
         ],
         "geocoded": [
-          29.820128,
-          -95.443679
+          29.6278616,
+          -95.4310227
         ],
-        "geocode_query": "Central Houston, Texas, United States",
-        "distance_km": 10.0,
+        "distance_km": 15.81,
         "status": "VERIFIED"
       },
       {
@@ -2482,10 +2462,9 @@
           -95.8244
         ],
         "geocoded": [
-          29.785785,
-          -95.824396
+          29.7857853,
+          -95.8243956
         ],
-        "geocode_query": "Katy, Texas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2498,10 +2477,9 @@
           -95.18463
         ],
         "geocoded": [
-          30.049708,
-          -95.18463
+          30.0497077,
+          -95.1846301
         ],
-        "geocode_query": "Kingwood, Texas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2514,21 +2492,26 @@
           -96.82382
         ],
         "geocoded": [
-          33.1506,
-          -96.823818
+          33.1505998,
+          -96.8238183
         ],
-        "geocode_query": "Frisco, Texas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
       {
         "pin": 24,
-        "city": "Prosper/Lewisville",
+        "city": "Prosper",
         "state": "TX",
-        "query": "Prosper/Lewisville, Texas, United States",
-        "status": "UNVERIFIABLE",
-        "reason": "no geocode result",
-        "note": "City label 'Prosper/Lewisville' contains slash (two cities); geocoder cannot parse. Stored coords are in the plausible metro area but precise verification requires a single city. Genuine label ambiguity."
+        "stored": [
+          33.23716,
+          -96.7977
+        ],
+        "geocoded": [
+          33.2371585,
+          -96.7977048
+        ],
+        "distance_km": 0.0,
+        "status": "VERIFIED"
       },
       {
         "pin": 25,
@@ -2540,9 +2523,8 @@
         ],
         "geocoded": [
           34.729847,
-          -86.585901
+          -86.5859011
         ],
-        "geocode_query": "Huntsville, Alabama, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2556,9 +2538,8 @@
         ],
         "geocoded": [
           36.334857,
-          -94.119382
+          -94.1193816
         ],
-        "geocode_query": "Rogers, Arkansas, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2571,10 +2552,9 @@
           -93.29227
         ],
         "geocoded": [
-          37.208173,
-          -93.292271
+          37.2081729,
+          -93.2922715
         ],
-        "geocode_query": "Springfield, Missouri, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       },
@@ -2587,16 +2567,15 @@
           -79.93993
         ],
         "geocoded": [
-          32.788436,
-          -79.939931
+          32.7884363,
+          -79.9399309
         ],
-        "geocode_query": "Charleston, South Carolina, United States",
         "distance_km": 0.0,
         "status": "VERIFIED"
       }
     ]
   },
-  "pinsUpdatedAt": "2026-09-15T02:52:43.668905+00:00",
+  "pinsUpdatedAt": "2026-09-15T04:30:39Z",
   "risk_method": "base 0 + outlet_stability 6 + legal_cleanliness 2 + fee_burden 11 + financial_evidence 10 + trend_momentum 3 = 32",
   "risk_components": [
     {
@@ -2628,5 +2607,8 @@
   "risk_source": "build_fields.py 5-factor model",
   "logoUrl": "https://spoiledrottenphotography.com/wp-content/uploads/2024/11/SPR-Logo-250x86.png",
   "logoUrl_verified_2026_09_14": "HEAD/GET 200, content-type image/*",
-  "risk_method_original_2026_09_14": "outlet_stability 6/20 + legal_cleanliness 2/20 + fee_burden 11/20 + financial_evidence 10/20 + trend_momentum 3/20 = 32 (5-factor sum, lower = lower risk; source: builder build_fields.py)"
+  "risk_method_original_2026_09_14": "outlet_stability 6/20 + legal_cleanliness 2/20 + fee_burden 11/20 + financial_evidence 10/20 + trend_momentum 3/20 = 32 (5-factor sum, lower = lower risk; source: builder build_fields.py)",
+  "adFee": "not disclosed in FDD",
+  "adFeeNote": "FDD Item 6 scan (verifier provenance 2026-09-14): no advertising/marketing fund fee listed; nearest is Ongoing Marketing Material purchases $300-$800/season (Note 10).",
+  "territoryType": "protected"
 }
