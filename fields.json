@@ -2271,7 +2271,8 @@
           -84.1441046
         ],
         "distance_km": 0.0,
-        "status": "VERIFIED"
+        "status": "EXCEPTION (documented)",
+        "detail": "slash-delimited dual-city label; first city geocoded only; see documented_exceptions"
       },
       {
         "pin": 9,
@@ -2511,7 +2512,8 @@
           -96.7977048
         ],
         "distance_km": 0.0,
-        "status": "VERIFIED"
+        "status": "EXCEPTION (documented)",
+        "detail": "slash-delimited dual-city label; first city geocoded only; see documented_exceptions"
       },
       {
         "pin": 25,
