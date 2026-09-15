@@ -2133,10 +2133,10 @@
     "method": "Nominatim forward-geocode of each unique pin (city, state); haversine vs stored coords; tolerance 50.0km",
     "run_at": "2026-09-15T04:30:39Z",
     "pins_total": 29,
-    "pins_verified": 29,
-    "pins_unverifiable": 0,
+    "pins_verified": 27,
+    "pins_unverifiable": 2,
     "pins_mismatch": 0,
-    "all_verified": true,
+    "all_verified": false,
     "per_pin": [
       {
         "pin": 0,
@@ -2573,7 +2573,20 @@
         "distance_km": 0.0,
         "status": "VERIFIED"
       }
-    ]
+    ],
+    "documented_exceptions": [
+      {
+        "pin": 8,
+        "label": "Duluth/Sandy Springs, GA",
+        "reason": "slash-delimited dual-city label; verifier geocoded first city only (Duluth); Sandy Springs not independently verified"
+      },
+      {
+        "pin": 24,
+        "label": "Prosper/Lewisville, TX",
+        "reason": "slash-delimited dual-city label; verifier geocoded first city only (Prosper); Lewisville not independently verified"
+      }
+    ],
+    "note": "27/29 pins verified within 50km; 2 dual-city slash labels documented as unverifiable exceptions (audit 2026-09-15)"
   },
   "pinsUpdatedAt": "2026-09-15T04:30:39Z",
   "risk_method": "base 0 + outlet_stability 6 + legal_cleanliness 2 + fee_burden 11 + financial_evidence 10 + trend_momentum 3 = 32",
